@@ -1,0 +1,1436 @@
+lead_id,age_group,service_interest,lead_source,budget_range,previous_interaction,response_time_hours,pages_visited,email_opens,engagement_score,converted
+VX-100363,18-24,Web Development,Paid Ads,,Yes,18.3,4,3,72.0,0
+VX-100823,35-44,Web Development,Paid Ads,Medium,No,39.8,4,3,53.0,1
+VX-100872,55+,App Development,Social Media,Medium,No,15.3,3,1,42.0,0
+VX-100405,45-54,SEO,Social Media,Low,No,3.3,2,2,43.0,0
+VX-100605,45-54,Branding,Paid Ads,Medium,No,6.4,3,2,36.0,1
+VX-100675,25-34,Digital Marketing,Social Media,Medium,No,35.3,5,1,41.0,0
+VX-101129,55+,SEO,Email Campaign,Low,No,4.3,2,2,32.0,0
+VX-100107,25-34,Digital Marketing,Website Form,Low,no,15.1,4,1,28.0,0
+VX-101390,55+,App Development,Website Form,Medium,Yes,17.4,6,0,47.0,1
+VX-100245,45-54,Digital Marketing,Email Campaign,Medium,No,-17.7,4,2,44.0,1
+VX-100022,55+,Digital Marketing,Website Form,Low,No,15.4,5,1,44.0,0
+VX-100887,18-24,App Development,Email Campaign,Medium,No,,1,0,4.0,0
+VX-100771,35-44,Web Development,Website Form,,Yes,6.6,6,1,59.0,1
+VX-100164,35-44,App Development,Website Form,Medium,no,11.6,6,2,58.0,1
+VX-100903,35-44, Digital Marketing ,Paid Ads,Medium,No,17.3,2,1,36.0,0
+VX-100762,18-24,Digital Marketing,Email Campaign,Medium,NO,10.2,3,1,45.0,0
+VX-100750,25-34,SEO,Email Campaign,Low,No,4.6,5,2,45.0,0
+VX-100834,35-44,App Development,Referral,Medium,No,5.7,5,1,54.0,0
+VX-101181,18-24,App Development,Social Media,Medium,No,14.6,3,3,60.0,1
+VX-100331,25-34,Web Development,Email Campaign,Low,Yes,9.0,9,3,93.0,1
+VX-100411,35-44,Digital Marketing,Paid Ads,Low,No,7.0,3,2,38.0,0
+VX-101317,18-24,Branding,Email Campaign,Low,No,7.8,5,3,57.0,0
+VX-101071,35-44,App Development,Website Form,High,Yes,23.2,2,5,55.0,0
+VX-100221,35-44,Digital Marketing,Paid Ads,Low,No,32.8,4,2,47.0,1
+VX-100259,35-44,Web Development,Website Form,High,Yes,3.5,5,3,49.0,1
+VX-100386,35-44,Digital Marketing,Paid Ads,Medium,Yes,,6,4,75.0,1
+VX-100082,45-54,SEO,Referral,Medium,Yes,9.5,7,7,,1
+VX-100447,35-44,SEO,Paid Ads,Low,Yes,22.5,10,7,98.0,0
+VX-100604,55+,Web Development,Email Campaign,High,Yes,37.4,5,3,60.0,1
+VX-100631,45-54,Digital Marketing,Referral,Low,NO,3.3,4,3,61.0,1
+VX-100975,35-44,Web Development,Referral,Low,No,26.3,1,1,13.0,0
+VX-100616,35-44,Digital Marketing,Paid Ads,Low,No,14.3,2,2,49.0,0
+VX-100988,25-34,App Development,Social Media,High,No,13.7,5,2,62.0,0
+VX-100499,35-44,Web Development,Website Form,medium,Yes,12.0,3,3,46.0,1
+VX-100287,25-34,Digital Marketing,Social Media,Low,Yes,6.7,6,2,50.0,0
+VX-100783,35-44, Web Development ,Paid Ads,Low,No,30.3,2,2,43.0,0
+VX-101238,25-34, App Development ,Social Media,High,No,8.6,2,3,50.0,0
+VX-100763,18-24,Digital Marketing,Website Form,Low,Yes,30.2,5,1,33.0,0
+VX-100293,18-24,App Development,Email Campaign,Low,No,3.7,2,2,31.0,0
+VX-100551,25-34,Web Development,Website Form,Medium,No,1.7,5,3,56.0,1
+VX-100177,55+,App Development,Paid Ads,Low,No,9.3,1,8,55.0,0
+VX-100272,18-24,App Development,Paid Ads,medium,Yes,7.5,7,0,60.0,0
+VX-100433,45-54,Web Development,Website Form,Low,Yes,3.1,6,2,61.0,1
+VX-101377,45-54,Digital Marketing,Email Campaign,Medium,Yes,21.2,16,5,100.0,1
+VX-101031,35-44,SEO,Paid Ads,High,Yes,5.5,3,2,46.0,1
+VX-101015,25-34,Web Development,Social Media,Medium,Yes,47.0,5,4,63.0,0
+VX-100239,18-24,App Development,Paid Ads,Low,Yes,14.8,8,4,96.0,0
+VX-100042,35-44,Web Development,Social Media,Medium,no,2.9,4,2,46.0,0
+VX-100070,25-34,Branding,Paid Ads,High,No,5.1,3,1,28.0,1
+VX-100932,25-34,App Development,Referral,Low,No,22.8,4,1,47.0,1
+VX-101322,18-24,Digital Marketing,Email Campaign,Medium,No,5.8,8,0,55.0,1
+VX-100537,25-34,SEO,Email Campaign,Low,Yes,7.6,9,0,63.0,0
+VX-101016,35-44,Web Development,Social Media,Low,No,9.5,4,0,34.0,0
+VX-100714,45-54,Web Development,Email Campaign,Low,No,20.2,7,1,60.0,0
+VX-100340,18-24,Web Development,Social Media,Low,No,19.8,3,1,42.0,0
+VX-100592,25-34,Digital Marketing,Email Campaign,Low,yes,2.9,3,3,61.0,1
+VX-100470,25-34,Digital Marketing,Email Campaign,Low,No,23.1,2,4,42.0,0
+VX-100590,55+,Web Development,Website Form,Medium,no,11.3,2,0,38.0,0
+VX-100810,18-24,Branding,Paid Ads,Low,Yes,18.7,4,4,,0
+VX-100246,35-44,Digital Marketing,Social Media,Medium,No,32.7,2,0,,0
+VX-100430,55+,Digital Marketing,Social Media,low,No,12.5,4,2,55.0,0
+VX-100088,25-34,Branding,Website Form,High,no,2.2,2,3,32.0,0
+VX-100951,25-34,App Development,Referral,Low,yes,6.1,4,1,55.0,1
+VX-101314,18-24,App Development,Paid Ads,Low,No,16.3,3,4,51.0,0
+VX-101169,18-24,Branding,Website Form,Low,NO,26.0,2,2,29.0,0
+VX-100678,18-24,Digital Marketing,Email Campaign,Medium,No,15.0,2,2,49.0,0
+VX-100127,25-34,Digital Marketing,Referral,Medium,Yes,8.7,4,5,59.0,0
+VX-100214,35-44,App Development,Social Media,Low,No,20.4,4,3,50.0,0
+VX-101203,35-44,App Development,Website Form,Low,No,8.7,2,2,32.0,0
+VX-100449,,App Development,Social Media,Medium,No,,3,1,56.0,0
+VX-100488,35-44,App Development,Website Form,High,Yes,8.9,7,3,75.0,1
+VX-101296,,App Development,Referral,High,No,,5,3,56.0,0
+VX-100697,35-44,Digital Marketing,Paid Ads,Medium,No,6.5,2,2,41.0,1
+VX-100123,25-34,App Development,Paid Ads,Low,No,30.6,1,0,10.0,1
+VX-100289,18-24,Digital Marketing,Email Campaign,Medium,yes,7.8,6,3,65.0,1
+VX-101320,35-44,Digital Marketing,Email Campaign,Medium,No,13.0,3,3,50.0,0
+VX-101336,25-34,Web Development,Referral,Low,no,5.3,5,2,41.0,1
+VX-100093,25-34,App Development,Referral,Medium,No,9.9,6,1,70.0,0
+VX-100388,18-24,App Development,Website Form,Medium,No,16.1,3,0,30.0,0
+VX-100039,35-44,Branding,Website Form,Medium,No,9.4,5,2,57.0,1
+VX-100043,25-34, Web Development ,Website Form,Medium,No,7.4,4,0,35.0,0
+VX-100194,25-34, App Development ,Referral,Low,No,7.8,4,3,51.0,0
+VX-100728,25-34, Web Development ,Paid Ads,Medium,No,9.8,5,1,47.0,0
+VX-101334,55+,Digital Marketing,Referral,High,No,14.3,4,1,45.0,0
+VX-100837,55+, Digital Marketing ,Website Form,low,Yes,,10,3,92.0,1
+VX-100298,45-54,Branding,Website Form,High,No,0.7,2,0,20.0,0
+VX-101291,35-44,Digital Marketing,Paid Ads,Medium,Yes,9.4,6,4,66.0,1
+VX-100602,45-54,Branding,Referral,Low,No,9.8,4,0,40.0,0
+VX-101329,25-34,Branding,Email Campaign,High,No,9.9,5,2,61.0,0
+VX-100135,18-24,Digital Marketing,Social Media,Low,No,13.5,4,3,50.0,0
+VX-100053,35-44,Branding,Social Media,Medium,No,8.0,2,3,40.0,0
+VX-100317,35-44, SEO ,Paid Ads,Low,No,8.8,2,6,54.0,0
+VX-101267,55+,Web Development,Paid Ads,Low,Yes,27.8,8,5,86.0,1
+VX-100938,45-54,SEO,Paid Ads,Low,No,24.2,2,2,22.0,0
+VX-100700,25-34,App Development,Social Media,Medium,Yes,9.7,4,6,78.0,0
+VX-100925,25-34, Branding ,Paid Ads,,No,9.0,1,2,22.0,0
+VX-101026,55+,Web Development,Social Media,Low,No,1.7,3,0,38.0,0
+VX-101182,18-24,Web Development,Referral,Medium,No,4.0,6,3,70.0,1
+VX-100304,45-54,Digital Marketing,Paid Ads,Low,No,34.7,3,2,35.0,0
+VX-100472,18-24,Branding,Paid Ads,Low,Yes,3.2,4,4,62.0,1
+VX-100201,55+,Web Development,Referral,Medium,No,9.3,4,4,61.0,1
+VX-100539,45-54,Web Development,Referral,Medium,NO,1.7,2,1,29.0,0
+VX-100633,25-34,Digital Marketing,Website Form,Medium,yes,17.1,3,3,59.0,1
+VX-100073,25-34, Digital Marketing ,Website Form,High,No,25.5,3,1,28.0,0
+VX-100458,45-54,Web Development,Referral,Medium,No,12.8,8,3,75.0,0
+VX-100828,45-54,Web Development,Paid Ads,Medium,No,14.6,5,2,70.0,0
+VX-101045,25-34,SEO,Referral,Medium,Yes,6.7,5,6,79.0,0
+VX-100316,25-34,Digital Marketing,Website Form,Medium,No,10.4,7,3,56.0,1
+VX-100292,55+,Web Development,Paid Ads,High,No,17.5,3,3,40.0,0
+VX-100807,25-34,Digital Marketing,Website Form,Medium,Yes,4.5,4,5,67.0,0
+VX-100532,25-34,App Development,Website Form,low,no,9.8,3,4,44.0,0
+VX-101024,35-44,Branding,Paid Ads,Medium,Yes,,5,2,59.0,1
+VX-100677,35-44,Web Development,Email Campaign,Medium,no,6.7,2,6,68.0,1
+VX-101348,25-34,Digital Marketing,Social Media,Medium,No,12.2,3,3,64.0,0
+VX-101363,18-24,Digital Marketing,Social Media,Low,No,14.1,3,1,49.0,0
+VX-100319,55+,App Development,Social Media,Low,Yes,6.0,4,2,47.0,0
+VX-100710,55+,Digital Marketing,Email Campaign,Low,Yes,75.1,1,4,47.0,0
+VX-101081,45-54,Web Development,Email Campaign,Low,No,20.3,5,1,55.0,0
+VX-100809,55+,Web Development,Website Form,Medium,yes,12.1,6,3,74.0,0
+VX-101041,35-44,Web Development,Paid Ads,Low,No,5.1,3,4,,1
+VX-101341,45-54,App Development,Referral,Medium,no,19.6,4,2,51.0,0
+VX-100977,25-34,SEO,Website Form,Low,No,12.8,4,2,40.0,0
+VX-100936,55+,App Development,Website Form,Low,Yes,21.6,6,3,70.0,0
+VX-100216,18-24,Web Development,Email Campaign,Medium,Yes,21.2,4,4,47.0,0
+VX-101371,55+,App Development,Paid Ads,Low,No,24.1,4,3,63.0,0
+VX-101100,18-24,Web Development,Website Form,Medium,Yes,8.2,8,3,73.0,1
+VX-100368,25-34,Web Development,Website Form,Medium,No,8.8,4,5,69.0,0
+VX-100926,25-34,Web Development,Email Campaign,Medium,Yes,12.6,5,4,72.0,1
+VX-100829,25-34, SEO ,Website Form,Low,Yes,3.0,4,2,51.0,0
+VX-100279,45-54,Digital Marketing,Website Form,High,yes,9.1,2,0,34.0,1
+VX-101354,45-54,Branding,Referral,Medium,no,24.6,6,1,59.0,0
+VX-100041,45-54,Web Development,Social Media,High,No,24.5,3,4,47.0,1
+VX-100563,35-44,Web Development,Referral,Medium,No,12.9,3,6,67.0,1
+VX-101049,25-34,SEO,Social Media,High,Yes,2.8,4,4,41.0,0
+VX-100026,25-34,Web Development,Social Media,Medium,No,11.0,1,0,18.0,0
+VX-101084,55+,App Development,Email Campaign,Low,Yes,22.0,6,4,79.0,0
+VX-101346,25-34, Web Development ,Website Form,High,No,7.8,2,1,34.0,0
+VX-100262,25-34, App Development ,Website Form,Low,No,6.5,3,3,55.0,0
+VX-100431,45-54,Branding,Website Form,Medium,NO,7.1,5,1,55.0,1
+VX-101177,25-34,App Development,Website Form,Medium,no,20.2,4,2,41.0,0
+VX-100311,25-34,Digital Marketing,Website Form,medium,Yes,8.0,3,2,51.0,0
+VX-100372,25-34,SEO,Paid Ads,Low,No,10.3,1,1,20.0,0
+VX-101356,35-44,App Development,Email Campaign,Low,Yes,5.6,4,3,55.0,1
+VX-100365,25-34,Web Development,Paid Ads,Medium,Yes,23.8,3,7,62.0,1
+VX-100820,18-24,Digital Marketing,Paid Ads,High,Yes,21.0,6,5,74.0,0
+VX-100325,35-44,Web Development,Website Form,,Yes,2.5,5,0,41.0,1
+VX-100220,25-34, Web Development ,Social Media,Low,No,12.2,6,0,50.0,0
+VX-100461,25-34,Branding,Paid Ads,High,No,-18.2,4,0,37.0,0
+VX-100984,25-34,Web Development,Referral,Low,No,8.3,4,3,45.0,0
+VX-101006,55+, SEO ,Paid Ads,Low,No,28.0,1,1,12.0,0
+VX-101017,45-54,Digital Marketing,Social Media,Low,No,9.2,3,2,36.0,0
+VX-101141,45-54,Digital Marketing,Website Form,Low,No,1.3,4,0,34.0,0
+VX-100349,,Digital Marketing,Website Form,Low,No,7.7,2,2,39.0,0
+VX-100320,45-54,Web Development,Website Form,,No,17.5,2,2,30.0,0
+VX-100916,18-24,Web Development,Paid Ads,Medium,No,4.3,5,1,56.0,0
+VX-101344,55+,Digital Marketing,Social Media,Medium,No,13.4,6,3,54.0,0
+VX-100976,25-34,App Development,Paid Ads,Low,No,12.1,3,2,45.0,0
+VX-101228,55+,Digital Marketing,Social Media,High,No,9.8,5,1,44.0,0
+VX-100796,18-24, Web Development ,Email Campaign,Low,No,24.8,3,1,55.0,0
+VX-100694,45-54,Branding,Website Form,Medium,Yes,12.1,10,3,91.0,1
+VX-100949,25-34,Web Development,Website Form,Low,Yes,9.0,8,9,100.0,1
+VX-101234,25-34,Digital Marketing,Website Form,Medium,No,1.1,4,3,54.0,1
+VX-101220,,App Development,Website Form,Medium,No,,3,0,29.0,0
+VX-101035,35-44,Branding,Social Media,Medium,Yes,10.1,6,3,60.0,1
+VX-100670,,App Development,Social Media,Medium,No,31.9,4,4,68.0,0
+VX-101233,35-44, SEO ,Referral,Medium,No,6.1,4,5,58.0,0
+VX-101063,35-44,SEO,Social Media,high,No,1.3,2,2,32.0,0
+VX-101007,,Digital Marketing,Paid Ads,High,Yes,9.8,8,2,76.0,0
+VX-101319,45-54,SEO,Social Media,Medium,no,28.7,4,4,60.0,1
+VX-100044,45-54,Web Development,Website Form,Medium,No,6.9,4,2,,1
+VX-100148,25-34,Digital Marketing,Email Campaign,Medium,no,16.8,3,0,34.0,1
+VX-101128,35-44,App Development,Website Form,medium,No,17.2,2,3,47.0,0
+VX-101186,25-34,Digital Marketing,Website Form,Low,No,,3,1,33.0,0
+VX-100790,25-34,Web Development,Paid Ads,Low,Yes,8.2,4,6,75.0,0
+VX-100066,35-44,Digital Marketing,Social Media,Medium,yes,39.1,5,4,64.0,0
+VX-100562,45-54,SEO,Referral,High,Yes,5.4,8,4,,0
+VX-100599,35-44,Digital Marketing,Paid Ads,medium,No,29.9,3,0,21.0,0
+VX-100685,25-34,Digital Marketing,Paid Ads,High,No,28.2,5,0,50.0,0
+VX-100175,18-24, Web Development ,Paid Ads,Low,Yes,23.2,7,4,66.0,0
+VX-100195,25-34, SEO ,Social Media,Medium,No,16.4,3,2,44.0,0
+VX-100503,35-44,Web Development,Email Campaign,Low,No,7.9,6,2,63.0,0
+VX-101272,25-34,Digital Marketing,Social Media,High,No,20.3,5,6,78.0,1
+VX-100128,18-24,Web Development,Social Media,high,No,2.7,4,0,22.0,1
+VX-100046,25-34,Branding,Website Form,High,No,7.7,3,1,39.0,0
+VX-100789,35-44,Branding,Social Media,Low,Yes,15.9,6,6,76.0,0
+VX-101188,18-24,Digital Marketing,Email Campaign,Medium,No,25.0,6,4,51.0,1
+VX-100655,25-34,Digital Marketing,Paid Ads,High,No,57.5,4,3,58.0,0
+VX-100169,55+,Digital Marketing,Website Form,Medium,No,6.0,7,2,71.0,1
+VX-100253,25-34,Web Development,Paid Ads,Medium,YES,15.6,8,5,71.0,1
+VX-101245,25-34,Branding,Website Form,Low,Yes,2.8,7,1,62.0,1
+VX-100356,45-54,Web Development,Website Form,Medium,No,14.5,3,2,49.0,1
+VX-101261,25-34,Digital Marketing,Paid Ads,Low,No,14.2,2,0,29.0,0
+VX-101134,55+,Branding,Referral,Low,Yes,12.2,5,4,52.0,1
+VX-100856,35-44,Branding,Website Form,Medium,No,2.9,4,2,52.0,0
+VX-100665,35-44,Branding,Paid Ads,Low,No,13.6,4,4,58.0,1
+VX-101218,35-44,App Development,Website Form,Low,Yes,3.9,4,2,53.0,0
+VX-100083,25-34,Web Development,Social Media,Low,No,3.6,3,0,22.0,0
+VX-100917,18-24,App Development,Paid Ads,Medium,No,11.1,6,2,64.0,0
+VX-100473,18-24,Branding,Paid Ads,Low,Yes,10.8,8,5,86.0,1
+VX-100002,,Branding,Website Form,Low,No,3.2,4,2,61.0,0
+VX-100841,45-54,Web Development,Website Form,Low,No,,5,3,50.0,0
+VX-100237,45-54,Branding,Website Form,Low,NO,25.8,5,1,57.0,0
+VX-100288,35-44,SEO,Referral,,No,2.6,3,2,52.0,1
+VX-100067,25-34,Web Development,Referral,High,No,23.3,5,2,57.0,0
+VX-100397,25-34,Digital Marketing,Website Form,Low,No,8.7,4,0,318.0,0
+VX-100025,25-34,Digital Marketing,Paid Ads,High,no,12.5,5,2,59.0,1
+VX-100189,25-34,Web Development,Referral,Medium,No,6.4,1,1,37.0,1
+VX-101339,25-34,SEO,Paid Ads,Low,Yes,2.8,6,5,86.0,1
+VX-100353,35-44,App Development,Website Form,Medium,Yes,7.5,2,2,42.0,1
+VX-100905,35-44,Digital Marketing,Website Form,medium,Yes,8.4,8,1,69.0,1
+VX-101050,35-44,SEO,Social Media,Medium,No,9.0,3,2,39.0,0
+VX-100699,25-34,Web Development,Paid Ads,Medium,No,8.5,2,3,35.0,1
+VX-100933,45-54,Web Development,Referral,Medium,YES,2.1,8,4,81.0,1
+VX-101018,18-24,Web Development,Paid Ads,Low,YES,25.0,9,4,88.0,1
+VX-100333,45-54,Web Development,Website Form,Medium,Yes,4.5,5,3,55.0,1
+VX-100326,45-54,Digital Marketing,Referral,Medium,No,3.4,4,1,44.0,1
+VX-100080,35-44,Digital Marketing,Website Form,Low,no,14.8,9,1,,0
+VX-100344,45-54,SEO,Paid Ads,low,Yes,45.1,5,4,70.0,0
+VX-100863,35-44, Web Development ,Paid Ads,Low,Yes,43.3,5,5,67.0,0
+VX-100309,18-24,Digital Marketing,Email Campaign,Low,Yes,9.3,5,3,57.0,0
+VX-101121,18-24,SEO,Email Campaign,Medium,No,39.1,4,2,41.0,0
+VX-101053,18-24,App Development,Social Media,,No,14.1,6,3,64.0,1
+VX-100327,35-44,App Development,Website Form,Medium,No,7.2,3,0,35.0,0
+VX-100130,25-34,Digital Marketing,Referral,Low,Yes,20.7,4,2,52.0,0
+VX-101268,,SEO,Email Campaign,Medium,NO,24.0,2,1,52.0,0
+VX-101044,18-24,Digital Marketing,Email Campaign,Medium,No,46.0,2,2,31.0,0
+VX-100181,45-54,Digital Marketing,Social Media,Low,No,12.9,7,2,63.0,1
+VX-101393,18-24,Branding,Paid Ads,Low,No,18.1,3,4,56.0,0
+VX-100354,25-34, Digital Marketing ,Website Form,Low,No,12.7,4,1,55.0,0
+VX-100277,35-44,Digital Marketing,Referral,Low,Yes,8.3,4,2,42.0,1
+VX-100662,25-34,Digital Marketing,Website Form,Low,yes,7.7,8,3,76.0,1
+VX-100092,25-34,SEO,Referral,Low,No,4.5,2,2,40.0,1
+VX-100641,45-54,App Development,Website Form,Medium,Yes,14.6,6,5,88.0,1
+VX-100294,45-54,SEO,Social Media,Low,Yes,11.5,7,2,,0
+VX-100394,18-24,Branding,Paid Ads,Low,No,11.7,2,3,50.0,0
+VX-100740,18-24,Branding,Email Campaign,High,NO,43.1,2,1,41.0,0
+VX-100324,45-54,Digital Marketing,Website Form,Medium,No,7.6,3,2,49.0,0
+VX-100943,25-34, Digital Marketing ,Referral,High,No,13.4,4,2,52.0,1
+VX-101217,35-44,App Development,Social Media,High,Yes,22.7,5,3,74.0,1
+VX-100489,35-44,Digital Marketing,Social Media,Medium,no,12.9,2,3,48.0,0
+VX-101068,18-24,SEO,Paid Ads,High,Yes,10.4,7,1,60.0,1
+VX-100659,25-34,Web Development,Paid Ads,Low,Yes,11.5,3,4,48.0,1
+VX-100061,25-34,SEO,Referral,high,Yes,17.4,6,3,69.0,1
+VX-100255,35-44,Digital Marketing,Referral,Low,No,6.8,6,2,57.0,1
+VX-100348,35-44,Digital Marketing,Paid Ads,Medium,NO,19.1,1,2,29.0,0
+VX-101239,18-24,Web Development,Paid Ads,Low,No,13.3,4,4,70.0,0
+VX-100692,25-34,SEO,Paid Ads,Medium,No,20.3,3,4,54.0,0
+VX-100217,,SEO,Website Form,Low,Yes,14.5,7,6,92.0,1
+VX-101223,35-44,Branding,Email Campaign,Low,Yes,7.5,7,7,100.0,1
+VX-100060,35-44,App Development,Social Media,High,No,44.9,3,2,,1
+VX-100576,45-54,Digital Marketing,Website Form,Medium,no,6.2,3,1,36.0,1
+VX-100250,35-44,Digital Marketing,Email Campaign,High,No,6.0,5,0,46.0,1
+VX-101359,25-34,Digital Marketing,Website Form,Low,No,8.6,3,0,35.0,0
+VX-101159,45-54, Web Development ,Social Media,High,Yes,33.5,6,1,64.0,1
+VX-100851,25-34,App Development,Website Form,Medium,Yes,22.2,4,0,31.0,1
+VX-100369,45-54,App Development,Referral,Medium,No,8.9,2,1,26.0,0
+VX-100038,25-34,Branding,Social Media,Medium,Yes,,8,4,84.0,0
+VX-100464,35-44,SEO,Social Media,Medium,Yes,5.5,7,0,37.0,1
+VX-100296,55+,Web Development,Website Form,Medium,Yes,22.1,6,4,86.0,1
+VX-100077,35-44,Branding,Social Media,High,No,8.5,2,2,41.0,0
+VX-100744,35-44,Digital Marketing,Social Media,Medium,Yes,-6.8,3,4,72.0,1
+VX-100484,18-24,Digital Marketing,Website Form,High,Yes,3.5,4,4,68.0,1
+VX-100980,55+, App Development ,Website Form,,No,6.2,3,4,52.0,0
+VX-101289,35-44,Digital Marketing,Website Form,Medium,No,2.7,2,1,31.0,0
+VX-100544,25-34,App Development,Referral,Low,No,13.2,3,3,37.0,0
+VX-100031,55+,SEO,Social Media,Low,Yes,28.8,6,4,72.0,0
+VX-100867,45-54,Digital Marketing,Website Form,Low,No,13.9,3,1,,0
+VX-101198,25-34, Branding ,Social Media,Medium,No,26.5,3,1,36.0,0
+VX-100172,25-34,SEO,Website Form,Medium,YES,9.5,8,2,77.0,1
+VX-100371,25-34,App Development,Paid Ads,High,yes,2.3,8,5,80.0,1
+VX-100095,35-44,SEO,Website Form,Medium,Yes,2.1,6,7,86.0,1
+VX-100069,25-34, Web Development ,Website Form,Medium,No,10.5,2,5,57.0,1
+VX-101303,25-34,App Development,Social Media,Medium,Yes,,7,3,71.0,1
+VX-101368,25-34,App Development,Referral,Low,No,,2,2,35.0,0
+VX-100898,25-34,Web Development,Website Form,High,No,9.2,4,3,68.0,1
+VX-100409,55+,Web Development,Website Form,High,No,10.7,3,1,43.0,0
+VX-100664,25-34,Digital Marketing,Paid Ads,Medium,No,20.4,4,2,40.0,0
+VX-101304,45-54,SEO,Email Campaign,High,NO,32.4,5,2,59.0,0
+VX-100553,45-54,Branding,Social Media,Medium,Yes,12.8,8,2,69.0,0
+VX-101301,35-44,Digital Marketing,Paid Ads,Medium,No,3.9,6,4,74.0,1
+VX-101077,35-44,Web Development,Email Campaign,Medium,No,11.1,3,1,37.0,0
+VX-100614,25-34,Digital Marketing,Social Media,Medium,Yes,6.2,7,2,,1
+VX-100144,25-34,Digital Marketing,Social Media,Medium,No,19.5,7,2,,1
+VX-100300,45-54, Branding ,Email Campaign,Low,No,33.2,2,3,38.0,0
+VX-100691,45-54,App Development,Website Form,Low,No,6.3,6,2,67.0,0
+VX-101367,18-24,SEO,Social Media,Low,Yes,16.3,4,7,72.0,0
+VX-100672,55+,Digital Marketing,Referral,Medium,No,,4,2,49.0,1
+VX-100612,55+,Web Development,Referral,Medium,no,4.2,5,2,58.0,0
+VX-100476,25-34,Digital Marketing,Social Media,low,no,7.0,3,2,,0
+VX-101343,35-44,App Development,Social Media,Medium,No,22.9,3,2,39.0,0
+VX-100569,35-44,Digital Marketing,Social Media,Medium,no,8.7,4,1,37.0,1
+VX-100577,35-44,Branding,Email Campaign,low,Yes,2.1,5,3,61.0,1
+VX-101032,35-44,SEO,Social Media,Medium,No,23.3,3,3,51.0,0
+VX-100656,45-54,Branding,Email Campaign,Medium,No,14.6,2,1,46.0,0
+VX-101299,25-34,App Development,Email Campaign,Low,No,45.7,6,3,59.0,0
+VX-101392,,App Development,Referral,Medium,No,25.7,5,1,52.0,0
+VX-100271,25-34,SEO,Email Campaign,Low,Yes,12.2,5,4,56.0,1
+VX-100795,25-34,App Development,Email Campaign,Low,No,39.2,1,0,27.0,0
+VX-100982,35-44,Web Development,Email Campaign,Low,NO,,2,3,57.0,1
+VX-101148,35-44,Digital Marketing,Email Campaign,Medium,No,20.5,3,2,59.0,0
+VX-100695,35-44,Digital Marketing,Paid Ads,Medium,No,16.8,4,0,50.0,0
+VX-100794,18-24,SEO,Website Form,Medium,No,3.7,7,2,66.0,1
+VX-100726,25-34,Digital Marketing,Website Form,Low,No,2.4,5,2,42.0,1
+VX-100344,45-54,SEO,Paid Ads,low,Yes,45.1,5,4,70.0,0
+VX-100915,55+,Digital Marketing,Paid Ads,High,No,60.2,5,2,53.0,0
+VX-101070,45-54,Digital Marketing,Social Media,High,No,2.9,5,0,53.0,1
+VX-100155,35-44,App Development,Social Media,Medium,No,10.4,5,0,55.0,1
+VX-101192,45-54,SEO,Website Form,High,No,6.0,3,2,,1
+VX-100057,35-44,Digital Marketing,Social Media,Medium,No,16.6,4,0,27.0,0
+VX-100013,45-54,Branding,Website Form,Low,No,26.1,7,1,55.0,0
+VX-100736,25-34, Digital Marketing ,Website Form,low,No,7.5,1,2,26.0,0
+VX-101112,35-44,Web Development,Email Campaign,Low,Yes,11.9,7,1,59.0,1
+VX-101093,25-34,Branding,Referral,Medium,No,9.7,3,5,55.0,1
+VX-100402,45-54,Web Development,Email Campaign,High,No,34.2,3,1,30.0,0
+VX-100434,18-24,Web Development,Website Form,Medium,No,4.1,6,1,55.0,1
+VX-101369,25-34,Branding,Social Media,High,No,29.6,3,1,36.0,0
+VX-101213,25-34,App Development,Website Form,Low,Yes,10.5,7,3,77.0,1
+VX-100346,55+,App Development,Paid Ads,High,yes,41.2,9,7,100.0,1
+VX-100632,18-24,Digital Marketing,Email Campaign,Medium,no,25.6,4,1,44.0,0
+VX-100101,35-44,Branding,Email Campaign,Medium,Yes,4.9,1,7,37.0,0
+VX-100104,45-54,App Development,Social Media,low,No,32.7,5,1,51.0,0
+VX-100508,35-44,App Development,Referral,Low,NO,8.7,2,3,44.0,1
+VX-100751,,Web Development,Referral,Medium,No,0.5,4,1,22.0,1
+VX-101025,25-34,App Development,Referral,Medium,No,10.4,5,0,47.0,0
+VX-100658,35-44,Web Development,Website Form,Low,No,5.0,3,2,57.0,0
+VX-100086,35-44,Branding,Website Form,High,Yes,1.8,7,1,65.0,1
+VX-100427,45-54,Digital Marketing,Website Form,Low,Yes,17.4,6,5,77.0,1
+VX-101027,25-34,SEO,Social Media,Low,No,3.2,3,3,47.0,0
+VX-100260,25-34,Web Development,Referral,Medium,No,6.7,3,1,33.0,0
+VX-100098,18-24, Digital Marketing ,Paid Ads,Medium,No,21.7,3,2,42.0,0
+VX-101337,35-44,Digital Marketing,Paid Ads,Medium,No,8.8,7,2,55.0,0
+VX-101340,18-24,Web Development,Social Media,High,No,10.2,7,6,100.0,0
+VX-100454,18-24,App Development,Website Form,Medium,Yes,8.9,5,3,59.0,0
+VX-100707,45-54,Branding,Paid Ads,Low,No,36.5,3,4,40.0,0
+VX-101206,35-44,SEO,Referral,Low,No,19.1,2,4,51.0,1
+VX-100016,, SEO ,Social Media,Medium,No,15.9,1,0,25.0,0
+VX-101331,35-44,Digital Marketing,Paid Ads,High,No,3.3,4,1,41.0,1
+VX-100703,45-54,Branding,Paid Ads,High,Yes,17.4,2,5,58.0,0
+VX-101073,55+,Digital Marketing,Website Form,High,No,9.7,4,1,41.0,0
+VX-100005,55+,Digital Marketing,Website Form,Medium,No,8.3,3,0,33.0,0
+VX-100775,45-54,SEO,Social Media,Medium,Yes,16.8,5,3,74.0,0
+VX-100561,25-34,Digital Marketing,Social Media,Medium,No,13.5,3,3,65.0,1
+VX-101123,25-34,SEO,Email Campaign,Low,Yes,7.3,6,1,63.0,1
+VX-100735,35-44,Digital Marketing,Paid Ads,Low,No,9.3,3,1,27.0,0
+VX-101197,35-44,Digital Marketing,Social Media,Low,Yes,4.6,9,6,97.0,1
+VX-101143,45-54,Web Development,Referral,Medium,Yes,11.8,6,4,,1
+VX-100315,25-34, App Development ,Paid Ads,Low,no,16.8,7,1,45.0,0
+VX-100844,18-24,Digital Marketing,Website Form,Low,Yes,16.4,4,7,78.0,0
+VX-100456,55+,Web Development,Website Form,High,YES,10.7,5,4,57.0,0
+VX-101321,25-34,App Development,Paid Ads,Low,NO,31.9,2,0,9.0,0
+VX-101136,25-34,App Development,Social Media,Medium,Yes,29.0,4,1,52.0,0
+VX-101042,35-44,Web Development,Paid Ads,Low,Yes,14.2,9,3,92.0,0
+VX-100151,45-54,Digital Marketing,Paid Ads,Low,No,9.4,6,2,63.0,0
+VX-101372,25-34,Branding,Email Campaign,Medium,Yes,41.6,9,3,91.0,1
+VX-101232,25-34,Branding,Paid Ads,Medium,Yes,7.4,4,4,70.0,1
+VX-101201,35-44,SEO,Social Media,Low,No,3.9,4,0,35.0,0
+VX-100689,35-44,Digital Marketing,Referral,High,No,10.8,3,3,52.0,1
+VX-101110,25-34,Digital Marketing,Referral,Medium,Yes,6.0,4,1,42.0,1
+VX-100426,25-34,Digital Marketing,Paid Ads,High,Yes,25.4,3,3,49.0,0
+VX-100113,35-44, App Development ,Paid Ads,High,No,15.3,5,2,57.0,0
+VX-100202,35-44,SEO,Website Form,low,no,7.1,5,1,56.0,0
+VX-100814,18-24,Branding,Referral,Low,No,7.5,2,1,39.0,0
+VX-100782,25-34,App Development,Social Media,Low,No,28.7,3,2,35.0,0
+VX-100352,35-44, Branding ,Social Media,Low,No,42.2,2,0,18.0,0
+VX-100789,35-44,Branding,Social Media,Low,Yes,15.9,6,6,76.0,0
+VX-100480,25-34,Digital Marketing,Paid Ads,High,Yes,20.0,3,5,58.0,1
+VX-101010,35-44,SEO,Referral,Medium,No,3.5,2,1,32.0,1
+VX-100802,45-54,Branding,Referral,Medium,Yes,15.2,8,2,66.0,1
+VX-100549,25-34, Branding ,Social Media,Low,No,43.4,2,3,60.0,0
+VX-101399,25-34,App Development,Website Form,Medium,No,11.0,3,0,46.0,1
+VX-101360,35-44,SEO,Referral,High,Yes,13.0,2,2,45.0,1
+VX-100514,25-34,Web Development,Social Media,Medium,No,21.9,5,1,,0
+VX-100455,25-34,Branding,Paid Ads,High,Yes,11.9,4,5,72.0,1
+VX-101355,18-24, App Development ,Website Form,High,No,21.9,3,1,28.0,0
+VX-100626,45-54,App Development,Website Form,Low,No,18.2,2,2,24.0,0
+VX-100613,55+,Digital Marketing,Website Form,High,No,22.9,2,4,53.0,0
+VX-100425,45-54,Web Development,Paid Ads,Medium,No,10.2,3,1,44.0,0
+VX-100558,35-44,App Development,Paid Ads,Low,yes,42.1,6,4,74.0,1
+VX-100997,18-24,Web Development,Paid Ads,Low,Yes,39.4,7,2,51.0,0
+VX-100572,35-44,App Development,Paid Ads,Low,No,53.4,3,3,46.0,0
+VX-101038,25-34,Digital Marketing,Paid Ads,Medium,No,11.5,2,2,25.0,0
+VX-100191,25-34,Web Development,Paid Ads,Medium,No,11.1,4,0,39.0,0
+VX-100785,25-34,Web Development,Paid Ads,Low,No,17.9,5,1,35.0,0
+VX-100922,35-44,Digital Marketing,Paid Ads,Medium,YES,33.8,10,3,87.0,0
+VX-100232,55+,SEO,Website Form,High,Yes,5.4,4,1,38.0,1
+VX-100923,35-44,Web Development,Social Media,Medium,yes,4.0,3,0,39.0,0
+VX-100899,35-44,App Development,Social Media,High,No,5.0,4,1,42.0,1
+VX-101080,25-34,Digital Marketing,Paid Ads,High,No,8.8,8,1,79.0,0
+VX-100696,35-44,Web Development,Paid Ads,Low,No,17.8,6,2,46.0,0
+VX-100163,18-24, Branding ,Referral,High,No,10.6,2,2,28.0,0
+VX-100451,45-54,Branding,Referral,High,No,14.1,1,2,37.0,1
+VX-100701,25-34,Web Development,Referral,Low,No,7.7,2,3,49.0,1
+VX-100512,18-24,Branding,Referral,,Yes,5.6,5,2,64.0,0
+VX-100864,18-24,SEO,Website Form,High,No,1.4,3,2,51.0,1
+VX-101160,18-24,SEO,Social Media,Medium,Yes,30.0,9,7,100.0,1
+VX-100767,18-24,Digital Marketing,Social Media,Low,Yes,41.5,2,4,53.0,1
+VX-100713,45-54,SEO,Email Campaign,High,Yes,24.9,3,1,40.0,0
+VX-100183,25-34,Digital Marketing,Referral,,No,15.2,6,4,71.0,1
+VX-101212,35-44,Digital Marketing,Email Campaign,Low,Yes,15.0,4,0,28.0,0
+VX-101171,35-44,SEO,Website Form,High,No,3.8,5,1,72.0,1
+VX-100897,25-34,Web Development,Website Form,Medium,no,8.3,2,3,58.0,1
+VX-100500,,SEO,Email Campaign,High,No,23.0,4,3,55.0,1
+VX-100538,25-34,Web Development,Social Media,Low,YES,45.6,4,3,53.0,0
+VX-100724,18-24,Digital Marketing,Referral,Medium,No,19.2,1,3,36.0,0
+VX-100267,25-34,Web Development,Website Form,Medium,No,13.9,1,2,35.0,1
+VX-101306,35-44,Branding,Paid Ads,Low,No,10.9,6,1,55.0,1
+VX-100792,25-34, App Development ,Paid Ads,Medium,Yes,25.5,10,2,85.0,1
+VX-100278,45-54,App Development,Referral,High,No,,3,2,41.0,0
+VX-101019,25-34,Branding,Paid Ads,,Yes,24.9,5,4,72.0,0
+VX-100548,45-54,Web Development,Paid Ads,High,No,35.3,4,1,49.0,0
+VX-100852,,Digital Marketing,Social Media,Medium,No,11.3,3,6,57.0,0
+VX-100550,25-34,Branding,Website Form,Low,No,11.4,3,2,29.0,0
+VX-100121,35-44,Digital Marketing,Website Form,Medium,Yes,6.9,3,6,64.0,1
+VX-101088,35-44,Web Development,Email Campaign,Low,No,25.7,4,4,58.0,0
+VX-100921,45-54,Web Development,Referral,Low,No,19.8,4,0,36.0,0
+VX-101294,25-34,App Development,Website Form,High,yes,20.8,7,1,65.0,1
+VX-100881,35-44,Web Development,Website Form,Medium,No,9.4,4,1,40.0,0
+VX-101185,45-54,Digital Marketing,Website Form,Medium,No,6.4,4,2,46.0,1
+VX-100235,45-54,Digital Marketing,Paid Ads,Medium,Yes,16.7,3,6,368.0,0
+VX-101332,,SEO,Social Media,Medium,No,1.6,5,5,65.0,1
+VX-101057,25-34,Web Development,Social Media,medium,No,,5,2,50.0,0
+VX-100618,18-24,SEO,Website Form,Medium,Yes,6.5,6,4,56.0,1
+VX-100505,45-54,Digital Marketing,Website Form,Low,No,18.2,8,2,71.0,1
+VX-100170,25-34,Digital Marketing,Social Media,Low,no,37.6,3,2,42.0,0
+VX-100154,18-24,Web Development,Referral,High,yes,16.9,8,7,100.0,1
+VX-100212,25-34,App Development,Paid Ads,Medium,No,33.4,4,3,49.0,0
+VX-100824,45-54,Branding,Paid Ads,Medium,Yes,15.4,5,2,66.0,1
+VX-101252,18-24,App Development,Referral,Medium,No,7.7,5,2,60.0,1
+VX-100176,25-34,App Development,Paid Ads,Medium,No,24.9,6,3,53.0,0
+VX-100813,35-44,Digital Marketing,Email Campaign,medium,No,4.5,4,1,49.0,1
+VX-100136,55+,App Development,Social Media,Low,No,19.4,3,0,27.0,0
+VX-101274,18-24,SEO,Website Form,Medium,Yes,3.7,5,4,76.0,1
+VX-100819,25-34,Digital Marketing,Email Campaign,Medium,No,18.4,3,2,49.0,0
+VX-100457,25-34,Digital Marketing,Social Media,,No,6.4,5,3,52.0,0
+VX-100995,25-34,Branding,Paid Ads,High,yes,-15.8,4,2,63.0,1
+VX-100102,25-34, Digital Marketing ,Website Form,High,Yes,4.4,5,3,62.0,1
+VX-100759,25-34,Web Development,Referral,Medium,No,6.1,5,2,48.0,0
+VX-100584,45-54,SEO,Website Form,High,yes,4.6,8,4,78.0,1
+VX-100821,35-44,Digital Marketing,Social Media,High,No,10.7,3,4,47.0,1
+VX-100910,45-54,Branding,Email Campaign,Low,No,12.8,3,3,28.0,0
+VX-101059,35-44,Digital Marketing,Website Form,Low,No,3.2,7,1,59.0,0
+VX-100835,35-44,App Development,Website Form,Low,No,8.9,2,0,16.0,0
+VX-100971,18-24, Digital Marketing ,Email Campaign,Medium,No,32.9,5,1,39.0,0
+VX-100269,18-24,App Development,Social Media,Low,Yes,8.0,7,4,,0
+VX-101137,25-34,Digital Marketing,Paid Ads,Medium,No,7.4,8,1,68.0,1
+VX-101125,35-44,Web Development,Referral,Low,No,10.3,5,4,,0
+VX-100998,55+,Web Development,Social Media,Medium,Yes,21.0,3,2,41.0,0
+VX-100190,55+,Web Development,Paid Ads,Low,No,3.5,5,2,,0
+VX-101101,25-34,SEO,Paid Ads,Medium,No,27.9,4,3,46.0,0
+VX-100646,18-24,Digital Marketing,Paid Ads,Low,No,12.3,3,0,28.0,0
+VX-100437,35-44,Digital Marketing,Social Media,Medium,yes,5.2,4,2,53.0,0
+VX-101189,35-44,Digital Marketing,Email Campaign,High,No,17.1,4,4,65.0,0
+VX-101211,45-54,App Development,Website Form,Medium,Yes,3.5,6,4,87.0,1
+VX-100442,35-44,Web Development,Email Campaign,Medium,No,5.6,6,1,61.0,1
+VX-100403,18-24,SEO,Paid Ads,Medium,Yes,37.3,7,3,59.0,1
+VX-101034,25-34,SEO,Social Media,Medium,No,24.5,2,3,50.0,0
+VX-100028,25-34,App Development,Paid Ads,Medium,yes,5.9,7,4,77.0,1
+VX-100610,35-44,Web Development,Paid Ads,Medium,Yes,24.8,12,1,96.0,1
+VX-100730,25-34,Web Development,Website Form,Medium,No,17.1,3,6,56.0,0
+VX-100243,35-44,Web Development,Social Media,High,No,26.9,7,2,71.0,0
+VX-100871,18-24,SEO,Referral,Low,No,8.0,4,0,40.0,0
+VX-100497,35-44, Digital Marketing ,Referral,Medium,No,4.7,4,1,49.0,1
+VX-100300,45-54, Branding ,Email Campaign,Low,No,33.2,2,3,38.0,0
+VX-100079,45-54,Digital Marketing,Website Form,Medium,No,,1,3,48.0,1
+VX-100836,45-54,Web Development,Paid Ads,High,No,41.2,3,1,34.0,1
+VX-101002,18-24,App Development,Social Media,Low,Yes,5.0,12,2,100.0,1
+VX-100702,25-34,App Development,Website Form,Low,No,13.6,2,1,16.0,0
+VX-100893,18-24, Digital Marketing ,Referral,Low,Yes,5.5,8,4,82.0,1
+VX-100117,35-44,Branding,Paid Ads,Medium,No,20.3,4,3,64.0,1
+VX-100017,18-24,SEO,Referral,Low,No,12.8,3,0,32.0,0
+VX-100615,35-44,Digital Marketing,Website Form,Low,Yes,3.0,5,3,59.0,1
+VX-100737,25-34,App Development,Referral,Medium,Yes,10.8,5,4,76.0,1
+VX-100647,35-44,SEO,Paid Ads,Medium,No,23.6,5,0,48.0,0
+VX-100742,45-54,App Development,Email Campaign,Medium,No,13.9,4,2,41.0,0
+VX-100099,55+,SEO,Social Media,Medium,yes,44.2,11,8,100.0,0
+VX-100469,35-44,App Development,Website Form,Low,Yes,33.9,7,4,82.0,0
+VX-100535,25-34,Web Development,Social Media,Medium,Yes,2.7,8,7,98.0,1
+VX-100247,25-34,App Development,Paid Ads,Medium,Yes,66.6,5,5,87.0,0
+VX-100536,35-44,Digital Marketing,Referral,Medium,No,1.8,5,5,55.0,1
+VX-101323,45-54, Digital Marketing ,Social Media,Medium,No,11.8,3,4,46.0,0
+VX-100056,25-34,Web Development,Paid Ads,Low,No,9.4,4,1,52.0,0
+VX-100860,35-44,SEO,Website Form,Low,Yes,1.1,4,4,55.0,0
+VX-100378,25-34,Digital Marketing,Website Form,Medium,YES,3.4,9,4,82.0,1
+VX-100482,35-44,Digital Marketing,Social Media,Medium,No,6.6,3,1,31.0,0
+VX-100635,18-24,App Development,Referral,High,Yes,2.0,7,0,44.0,1
+VX-100568,25-34,Digital Marketing,Website Form,Low,Yes,6.7,7,4,74.0,1
+VX-100901,25-34, App Development ,Website Form,Low,Yes,14.2,6,6,88.0,0
+VX-100179,35-44,App Development,Email Campaign,Low,Yes,6.3,9,4,91.0,0
+VX-100036,18-24,Web Development,Paid Ads,Medium,Yes,8.0,3,2,52.0,1
+VX-100072,,Web Development,Website Form,High,No,30.9,2,1,41.0,0
+VX-100611,35-44,Digital Marketing,Website Form,,No,10.4,3,1,40.0,0
+VX-101039,18-24, App Development ,Social Media,Medium,No,30.9,2,1,35.0,0
+VX-100187,18-24,SEO,Referral,Low,no,9.3,1,3,46.0,0
+VX-101242,25-34, SEO ,Website Form,High,No,,5,0,34.0,0
+VX-100105,35-44,Digital Marketing,Paid Ads,Low,No,52.8,4,0,42.0,0
+VX-100989,45-54,Web Development,Paid Ads,Medium,No,38.5,5,0,38.0,0
+VX-100377,25-34,Digital Marketing,Social Media,Low,Yes,4.4,5,3,58.0,0
+VX-100376,55+,SEO,Email Campaign,High,no,10.6,4,1,39.0,0
+VX-100627,18-24,Digital Marketing,Email Campaign,Medium,Yes,7.3,9,5,,1
+VX-100768,18-24,Digital Marketing,Paid Ads,Low,No,36.3,9,0,78.0,0
+VX-101067,35-44,SEO,Website Form,High,No,-5.3,8,1,73.0,1
+VX-100422,18-24,Digital Marketing,Paid Ads,Medium,Yes,3.4,9,3,77.0,1
+VX-100398,25-34,SEO,Website Form,Low,No,14.5,2,0,24.0,0
+VX-101321,25-34,App Development,Paid Ads,Low,NO,31.9,2,0,9.0,0
+VX-100671,35-44,Digital Marketing,Social Media,Low,YES,17.0,6,5,88.0,1
+VX-100467,,Web Development,Paid Ads,Low,Yes,12.9,6,4,75.0,0
+VX-100788,45-54,Digital Marketing,Paid Ads,High,No,45.3,1,3,,0
+VX-100572,35-44,App Development,Paid Ads,Low,No,53.4,3,3,46.0,0
+VX-100222,35-44,App Development,Social Media,Medium,no,10.4,3,2,41.0,0
+VX-101316,35-44,Digital Marketing,Referral,Low,Yes,3.4,1,5,53.0,1
+VX-100625,25-34,Digital Marketing,Referral,Medium,YES,1.5,4,4,74.0,0
+VX-101295,25-34,Web Development,Social Media,low,Yes,24.2,6,4,77.0,0
+VX-101383,55+,Digital Marketing,Social Media,Medium,No,,7,1,59.0,0
+VX-100361,18-24,Web Development,Email Campaign,Low,Yes,11.3,2,7,76.0,0
+VX-100040,25-34,Web Development,Paid Ads,Medium,No,23.6,5,3,63.0,0
+VX-100755,25-34,App Development,Paid Ads,Low,No,9.8,5,1,54.0,0
+VX-100081,25-34,Web Development,Website Form,Low,No,7.0,1,2,50.0,0
+VX-100591,25-34,SEO,Paid Ads,low,Yes,17.5,6,5,62.0,1
+VX-100268,18-24,Web Development,Paid Ads,High,Yes,6.9,4,5,,1
+VX-101157,18-24,Digital Marketing,Email Campaign,Medium,No,9.8,2,1,32.0,0
+VX-100328,35-44,Web Development,Paid Ads,Low,No,9.8,2,3,45.0,0
+VX-101309,55+,SEO,Referral,Medium,No,9.9,2,0,32.0,0
+VX-101236,25-34,Digital Marketing,Social Media,High,Yes,18.8,6,3,68.0,1
+VX-100351,25-34,Web Development,Referral,Medium,No,5.5,2,3,41.0,1
+VX-101109,25-34, SEO ,Paid Ads,Low,Yes,5.7,5,4,87.0,1
+VX-100453,25-34,App Development,Social Media,Low,Yes,17.3,5,2,52.0,0
+VX-100725,18-24,Digital Marketing,Social Media,Low,Yes,22.6,7,1,64.0,0
+VX-101023,35-44,Web Development,Website Form,Low,No,2.0,2,3,53.0,1
+VX-100033,25-34,Web Development,Paid Ads,Medium,yes,11.0,7,4,70.0,1
+VX-100816,45-54,Web Development,Social Media,Medium,No,16.0,2,3,41.0,0
+VX-100530,35-44,SEO,Email Campaign,low,Yes,2.7,4,4,45.0,1
+VX-100973,45-54,Web Development,Paid Ads,,NO,26.6,5,0,52.0,0
+VX-101280,25-34,App Development,Social Media,Low,Yes,52.8,3,5,50.0,0
+VX-100523,35-44,Digital Marketing,Paid Ads,Medium,yes,26.3,6,4,62.0,0
+VX-100722,18-24,Digital Marketing,Website Form,low,No,8.5,3,6,52.0,1
+VX-101216,25-34,Web Development,Website Form,Low,No,18.5,2,1,37.0,0
+VX-100645,45-54,Web Development,Social Media,Low,Yes,,4,4,43.0,0
+VX-101065,55+,App Development,Social Media,Low,No,8.6,4,2,41.0,0
+VX-100557,35-44,Web Development,Social Media,High,yes,23.5,6,1,71.0,1
+VX-100207,35-44,Digital Marketing,Website Form,Low,No,6.1,4,2,57.0,0
+VX-100784,55+,Digital Marketing,Email Campaign,Low,Yes,18.6,2,1,38.0,1
+VX-100992,45-54, Digital Marketing ,Website Form,Low,no,13.2,6,3,66.0,0
+VX-101353,25-34,Web Development,Social Media,Low,No,24.3,2,0,23.0,0
+VX-100143,35-44,Web Development,Website Form,Low,No,10.2,4,4,52.0,0
+VX-100318,25-34, SEO ,Social Media,Medium,No,34.2,3,1,40.0,0
+VX-100513,25-34, SEO ,Referral,High,No,14.9,4,2,45.0,1
+VX-100302,35-44,Digital Marketing,Email Campaign,Medium,yes,5.4,7,8,96.0,0
+VX-101376,35-44,SEO,Referral,High,No,10.6,2,3,49.0,1
+VX-100896,25-34,App Development,Social Media,Medium,No,10.3,7,4,84.0,0
+VX-100654,45-54,Digital Marketing,Email Campaign,Low,No,5.2,3,0,36.0,0
+VX-101292,35-44,App Development,Paid Ads,low,Yes,6.9,5,4,66.0,1
+VX-101095,25-34,Digital Marketing,Paid Ads,Medium,Yes,20.4,2,4,56.0,1
+VX-101161,35-44,SEO,Website Form,Low,No,6.2,4,1,59.0,1
+VX-100720,35-44,Digital Marketing,Referral,Medium,Yes,6.4,2,3,36.0,1
+VX-100375,25-34,Digital Marketing,Website Form,Low,yes,19.6,6,0,59.0,1
+VX-100515,25-34,Web Development,Website Form,Low,No,15.4,5,2,49.0,1
+VX-100263,25-34,Web Development,Email Campaign,High,NO,34.4,5,1,63.0,1
+VX-101178,25-34,Web Development,Referral,Low,Yes,32.9,5,2,49.0,0
+VX-101079,25-34,Branding,Social Media,Medium,no,10.8,4,2,37.0,0
+VX-100660,25-34,Branding,Social Media,,No,21.4,6,1,43.0,1
+VX-100793,18-24,Web Development,Website Form,Low,Yes,17.7,4,1,48.0,0
+VX-100374,25-34,SEO,Paid Ads,High,No,51.7,3,4,46.0,1
+VX-101120,35-44,Web Development,Website Form,Low,No,6.2,4,1,46.0,0
+VX-100274,35-44,App Development,Email Campaign,Medium,Yes,13.2,4,4,56.0,0
+VX-101087,45-54,App Development,Paid Ads,Medium,No,38.5,4,3,77.0,0
+VX-100895,45-54,Web Development,Social Media,Medium,Yes,13.5,3,6,45.0,0
+VX-100200,45-54,Branding,Paid Ads,Medium,No,33.1,1,3,27.0,0
+VX-101382,35-44,SEO,Paid Ads,Low,Yes,15.0,11,4,100.0,0
+VX-100854,25-34,Branding,Social Media,High,No,30.1,3,3,50.0,0
+VX-101395,25-34,SEO,Referral,Medium,NO,16.3,5,2,54.0,0
+VX-100721,25-34,Web Development,Email Campaign,low,No,23.2,5,2,56.0,0
+VX-100087,25-34,Digital Marketing,Email Campaign,Low,Yes,11.4,9,4,94.0,1
+VX-100673,35-44,App Development,Social Media,Medium,Yes,19.7,9,2,72.0,0
+VX-100996,35-44,Web Development,Paid Ads,Medium,Yes,0.8,3,5,55.0,1
+VX-100833,35-44,Branding,Social Media,Medium,No,16.1,1,0,21.0,0
+VX-100306,25-34,Web Development,Social Media,Medium,No,5.5,4,3,45.0,0
+VX-100483,25-34,App Development,Website Form,Medium,Yes,15.0,7,3,79.0,1
+VX-101396,35-44,SEO,Website Form,High,No,20.7,3,2,35.0,0
+VX-100869,25-34,App Development,Referral,Medium,No,4.7,2,1,26.0,0
+VX-100778,45-54,Web Development,Paid Ads,High,Yes,30.0,7,1,66.0,0
+VX-101271,25-34,Digital Marketing,Paid Ads,low,No,3.3,3,1,26.0,1
+VX-100111,25-34,Web Development,Website Form,Medium,no,1.4,3,2,54.0,1
+VX-100950,35-44,Web Development,Website Form,Medium,no,5.0,2,3,46.0,1
+VX-101214,25-34,Digital Marketing,Referral,Medium,No,1.7,4,2,41.0,0
+VX-100559,35-44,SEO,Paid Ads,High,No,21.0,6,4,57.0,0
+VX-100815,45-54,Web Development,Paid Ads,Low,Yes,17.4,8,2,59.0,1
+VX-101078,35-44,Digital Marketing,Website Form,Low,Yes,23.8,7,3,70.0,0
+VX-100049,18-24,Web Development,Social Media,High,Yes,7.8,4,3,43.0,1
+VX-101195,25-34,Branding,Website Form,Medium,No,5.6,6,0,53.0,0
+VX-100774,18-24,Digital Marketing,Social Media,Medium,Yes,32.9,3,5,44.0,1
+VX-100390,35-44,App Development,Website Form,,Yes,7.3,1,5,33.0,1
+VX-101250,18-24,Branding,Email Campaign,Low,No,36.5,2,1,23.0,0
+VX-100607,18-24,Web Development,Website Form,Medium,yes,5.3,10,1,81.0,0
+VX-100113,35-44, App Development ,Paid Ads,High,No,15.3,5,2,57.0,0
+VX-100754,35-44,SEO,Social Media,Low,Yes,11.8,7,5,67.0,1
+VX-100862,45-54,Digital Marketing,Email Campaign,Low,No,2.3,3,4,40.0,0
+VX-101085,35-44,Digital Marketing,Website Form,Low,Yes,12.0,4,7,74.0,1
+VX-101165,45-54,Digital Marketing,Website Form,High,No,16.6,4,1,38.0,1
+VX-101001,25-34,App Development,Website Form,Low,YES,,5,2,54.0,0
+VX-100733,25-34, Branding ,Website Form,Low,no,14.8,4,1,42.0,0
+VX-100084,18-24,SEO,Referral,High,No,4.9,3,4,70.0,1
+VX-100282,25-34,App Development,Paid Ads,Medium,No,41.1,4,3,54.0,0
+VX-100606,45-54,Digital Marketing,Referral,Medium,No,13.3,7,3,70.0,1
+VX-100131,55+,Web Development,Website Form,High,No,8.7,1,2,33.0,1
+VX-100620,45-54,SEO,Email Campaign,Medium,No,8.7,2,1,27.0,0
+VX-101098,45-54,App Development,Website Form,Low,No,12.5,1,1,40.0,0
+VX-100341,55+, Web Development ,Website Form,low,No,12.7,2,2,27.0,0
+VX-101231,35-44, Digital Marketing ,Social Media,Medium,No,16.9,4,2,56.0,0
+VX-101055,35-44,Digital Marketing,Website Form,High,No,6.9,1,2,27.0,1
+VX-101151,45-54,Digital Marketing,Email Campaign,Medium,Yes,35.4,9,4,93.0,1
+VX-101154,35-44,Digital Marketing,Website Form,High,No,6.6,5,2,70.0,0
+VX-100078,35-44,Digital Marketing,Referral,Low,No,5.8,5,2,52.0,1
+VX-101187,55+,Web Development,Social Media,Low,No,15.1,4,1,51.0,0
+VX-100004,18-24,Web Development,Website Form,Medium,No,5.8,3,1,28.0,0
+VX-100062,35-44,Web Development,Social Media,Low,No,12.7,3,1,41.0,1
+VX-101277,18-24,App Development,Referral,Medium,Yes,12.6,4,2,41.0,1
+VX-100770,25-34,Digital Marketing,Paid Ads,Medium,No,5.2,1,1,39.0,1
+VX-100219,25-34,Web Development,Website Form,Medium,No,5.5,5,1,48.0,0
+VX-100776,35-44,Digital Marketing,Paid Ads,Medium,yes,17.2,3,1,31.0,0
+VX-100152,25-34,Digital Marketing,Website Form,Medium,No,12.3,3,2,44.0,0
+VX-100307,35-44,Digital Marketing,Paid Ads,Low,No,3.2,2,1,29.0,0
+VX-101398,35-44,SEO,Website Form,Medium,No,5.8,3,2,50.0,1
+VX-100822,25-34,Digital Marketing,Social Media,High,NO,-11.0,4,0,44.0,0
+VX-101385,18-24,SEO,Paid Ads,High,No,22.0,1,1,30.0,1
+VX-100203,25-34,App Development,Paid Ads,Low,No,6.5,4,2,45.0,0
+VX-101004,35-44,App Development,Website Form,Low,No,3.1,4,3,53.0,1
+VX-100516,25-34,SEO,Paid Ads,Low,No,27.2,3,3,55.0,0
+VX-100295,45-54,Digital Marketing,Website Form,Low,No,18.5,2,1,42.0,1
+VX-101222,45-54,Web Development,Social Media,Medium,NO,,4,2,45.0,0
+VX-100382,45-54,Digital Marketing,Referral,High,no,15.3,2,1,41.0,1
+VX-100913,55+,Web Development,Paid Ads,High,No,16.8,4,1,47.0,0
+VX-100129,35-44,Digital Marketing,Paid Ads,High,Yes,,9,2,87.0,1
+VX-101106,18-24,Branding,Paid Ads,High,Yes,26.7,5,3,73.0,0
+VX-100100,45-54,SEO,Social Media,Medium,No,10.8,3,1,39.0,0
+VX-101379,25-34,Web Development,Email Campaign,Medium,No,17.3,2,0,29.0,0
+VX-101131,35-44,SEO,Referral,Medium,NO,4.4,3,5,49.0,1
+VX-100972,18-24,Digital Marketing,Paid Ads,High,No,11.3,3,2,59.0,0
+VX-100071,25-34,Web Development,Social Media,Medium,No,22.5,3,2,57.0,0
+VX-100400,25-34,SEO,Paid Ads,Medium,No,-12.6,4,1,46.0,0
+VX-101388,45-54,Branding,Website Form,Medium,Yes,13.0,3,2,39.0,1
+VX-100261,45-54,SEO,Social Media,Medium,Yes,24.2,6,2,62.0,1
+VX-100502,55+,App Development,Website Form,Low,No,1.6,4,0,36.0,0
+VX-100757,55+,Digital Marketing,Email Campaign,Low,No,,2,1,38.0,0
+VX-101373,45-54,Web Development,Social Media,High,No,50.9,2,1,32.0,0
+VX-101278,45-54,App Development,Website Form,Medium,No,6.9,1,3,31.0,0
+VX-100601,45-54,Digital Marketing,Paid Ads,Low,no,22.4,3,0,52.0,0
+VX-101158,25-34,Digital Marketing,Website Form,Low,No,10.7,4,2,46.0,0
+VX-100370,45-54,SEO,Email Campaign,Low,No,28.8,2,2,41.0,0
+VX-100134,35-44,Web Development,Paid Ads,High,yes,30.5,5,2,47.0,1
+VX-100709,25-34,Web Development,Social Media,Low,No,21.3,6,2,60.0,0
+VX-101300,25-34, SEO ,Social Media,Low,No,48.1,2,4,35.0,0
+VX-101305,55+,Digital Marketing,Website Form,Low,No,7.3,5,1,55.0,0
+VX-100965,35-44,SEO,Paid Ads,medium,No,0.4,3,0,31.0,1
+VX-100560,18-24,SEO,Social Media,Medium,No,24.0,1,2,25.0,0
+VX-100935,25-34,SEO,Email Campaign,medium,Yes,29.1,10,3,90.0,1
+VX-101250,18-24,Branding,Email Campaign,Low,No,36.5,2,1,23.0,0
+VX-100116,45-54,Web Development,Website Form,High,No,12.4,3,0,32.0,1
+VX-100846,25-34,Digital Marketing,Social Media,Low,no,39.8,3,1,31.0,0
+VX-100210,35-44,Web Development,Social Media,Low,no,8.1,4,0,47.0,0
+VX-100387,55+,SEO,Email Campaign,High,No,8.4,3,2,41.0,0
+VX-101009,25-34, Branding ,Paid Ads,Low,yes,,10,2,77.0,1
+VX-100421,18-24,Digital Marketing,Paid Ads,High,No,2.1,2,0,30.0,0
+VX-100229,18-24,Digital Marketing,Social Media,low,No,18.4,6,1,53.0,0
+VX-100063,45-54,Digital Marketing,Website Form,High,Yes,6.8,7,4,74.0,1
+VX-100339,55+,App Development,Social Media,Low,No,3.4,4,2,54.0,0
+VX-100336,18-24,Branding,Paid Ads,Medium,Yes,16.9,8,3,83.0,0
+VX-100961,25-34, Web Development ,Social Media,High,Yes,2.6,7,6,81.0,1
+VX-100873,25-34,App Development,Social Media,Medium,no,16.8,3,3,47.0,0
+VX-101091,35-44,Digital Marketing,Paid Ads,Medium,Yes,22.5,9,4,71.0,1
+VX-100096,25-34,App Development,Email Campaign,Medium,Yes,39.9,9,1,83.0,0
+VX-101298,35-44,Digital Marketing,Paid Ads,Low,No,18.3,3,1,41.0,0
+VX-100941,45-54,Web Development,Website Form,Medium,yes,4.2,7,9,94.0,1
+VX-101256,45-54,Digital Marketing,Social Media,Low,Yes,18.1,6,3,61.0,0
+VX-100920,18-24, Web Development ,Paid Ads,Medium,No,26.5,8,0,69.0,0
+VX-100108,18-24,Web Development,Email Campaign,High,yes,29.8,10,2,,1
+VX-100801,25-34,Branding,Website Form,Medium,Yes,7.2,6,2,58.0,1
+VX-100826,35-44,SEO,Email Campaign,Medium,Yes,5.3,6,4,79.0,1
+VX-100786,45-54,App Development,Social Media,Medium,Yes,14.4,9,2,90.0,0
+VX-100608,35-44,Web Development,Referral,Medium,Yes,3.4,8,2,71.0,1
+VX-100636,35-44,Branding,Social Media,Low,No,36.2,5,2,57.0,0
+VX-100911,45-54,Web Development,Paid Ads,Medium,Yes,23.8,6,0,48.0,1
+VX-100345,45-54,SEO,Paid Ads,low,yes,8.6,2,3,41.0,0
+VX-101033,45-54,Digital Marketing,Social Media,Medium,No,18.9,7,1,60.0,0
+VX-100098,18-24, Digital Marketing ,Paid Ads,Medium,No,21.7,3,2,42.0,0
+VX-101170,25-34,Web Development,Email Campaign,,Yes,5.8,6,1,47.0,1
+VX-101030,35-44,App Development,Social Media,High,No,22.2,8,4,71.0,1
+VX-100494,45-54,Digital Marketing,Social Media,Medium,No,34.8,2,1,28.0,0
+VX-100074,18-24,Digital Marketing,Website Form,Low,No,6.2,6,1,50.0,0
+VX-100265,25-34,App Development,Social Media,Low,Yes,21.0,9,2,86.0,0
+VX-100958,35-44,Branding,Email Campaign,Medium,No,15.0,5,3,54.0,0
+VX-101288,25-34,Web Development,Website Form,medium,No,2.3,6,1,68.0,0
+VX-101226,25-34,SEO,Paid Ads,High,Yes,9.3,11,4,100.0,1
+VX-100011,55+,Branding,Email Campaign,Low,No,4.4,1,0,27.0,0
+VX-100661,45-54, Digital Marketing ,Paid Ads,High,yes,8.4,7,6,86.0,1
+VX-100355,35-44,SEO,Social Media,Medium,No,24.4,6,4,81.0,0
+VX-100027,18-24,Web Development,Website Form,Low,No,10.2,2,3,,0
+VX-100669,25-34,Digital Marketing,Email Campaign,Medium,Yes,22.5,7,3,75.0,1
+VX-101011,35-44,Branding,Website Form,Low,Yes,2.5,6,2,60.0,1
+VX-100424,35-44,App Development,Website Form,Low,No,4.6,1,4,46.0,0
+VX-100024,45-54, Digital Marketing ,Email Campaign,Low,Yes,16.5,5,4,63.0,0
+VX-100892,25-34,SEO,Website Form,,No,16.6,7,4,243.0,1
+VX-100330,35-44,Branding,Social Media,Medium,NO,9.4,3,3,48.0,0
+VX-100952,25-34,Web Development,Social Media,Medium,No,34.0,3,3,29.0,0
+VX-100501,45-54,Web Development,Social Media,Medium,Yes,34.6,5,2,53.0,0
+VX-101072,25-34,App Development,Website Form,High,no,9.7,3,2,32.0,1
+VX-100773,45-54,Web Development,Social Media,High,No,25.9,2,1,23.0,0
+VX-100964,55+,SEO,Website Form,Medium,No,12.4,8,1,74.0,1
+VX-100994,55+,SEO,Referral,High,No,15.8,3,6,68.0,1
+VX-101139,35-44,Digital Marketing,Website Form,Low,Yes,7.8,5,2,53.0,0
+VX-100168,25-34,Digital Marketing,Referral,low,YES,8.4,6,4,59.0,1
+VX-100286,18-24,Digital Marketing,Website Form,Medium,Yes,10.8,6,7,87.0,1
+VX-101357,25-34,SEO,Website Form,Low,No,2.1,4,2,54.0,1
+VX-100942,25-34,App Development,Paid Ads,,No,39.8,4,1,45.0,0
+VX-100653,25-34,App Development,Website Form,Low,Yes,5.6,4,4,66.0,1
+VX-101270,55+,SEO,Social Media,Medium,no,3.2,1,0,12.0,0
+VX-100014,25-34,Web Development,Website Form,Medium,no,12.8,3,4,44.0,0
+VX-100419,45-54,SEO,Social Media,Medium,NO,7.9,8,1,72.0,0
+VX-100188,35-44,Digital Marketing,Website Form,Medium,No,3.2,3,3,45.0,1
+VX-100652,35-44,Digital Marketing,Website Form,High,No,13.0,6,0,51.0,1
+VX-100679,25-34,Web Development,Referral,Low,Yes,13.8,8,4,88.0,0
+VX-100436,18-24,Web Development,Email Campaign,Low,No,8.2,9,1,68.0,0
+VX-101227,25-34,Digital Marketing,Paid Ads,High,No,2.1,4,5,64.0,1
+VX-101333,55+,Digital Marketing,Referral,,No,25.5,4,2,44.0,0
+VX-100566,45-54,App Development,Paid Ads,,No,16.8,3,2,50.0,1
+VX-100416,25-34,App Development,Social Media,Low,Yes,9.0,2,3,28.0,0
+VX-101140,25-34,Digital Marketing,Website Form,Low,No,8.3,8,2,62.0,0
+VX-101092,25-34,Web Development,Referral,High,No,3.1,1,0,31.0,1
+VX-100880,25-34,Digital Marketing,Paid Ads,Low,no,13.5,3,0,36.0,0
+VX-100407,45-54, Digital Marketing ,Website Form,Low,No,5.7,6,2,53.0,1
+VX-100587,25-34,SEO,Email Campaign,Medium,Yes,23.3,5,3,54.0,1
+VX-100396,45-54,SEO,Referral,Medium,No,6.0,3,2,39.0,0
+VX-100861,35-44,Branding,Email Campaign,Low,No,2.1,2,4,37.0,0
+VX-100366,45-54, Branding ,Website Form,Medium,No,12.5,3,4,60.0,0
+VX-101237,25-34,Web Development,Paid Ads,Low,No,17.0,5,1,53.0,0
+VX-100729,35-44,Web Development,Social Media,,Yes,4.4,4,3,62.0,0
+VX-100974,25-34,Digital Marketing,Paid Ads,Low,No,11.3,1,3,26.0,0
+VX-101133,35-44, Web Development ,Website Form,Low,No,12.7,6,1,55.0,1
+VX-100192,18-24,Branding,Social Media,Medium,Yes,16.5,8,3,77.0,0
+VX-100149,18-24,Digital Marketing,Email Campaign,High,No,10.6,1,0,19.0,0
+VX-101118,25-34,SEO,Paid Ads,Medium,No,9.5,2,3,46.0,0
+VX-100983,25-34,Web Development,Website Form,Medium,Yes,12.3,14,3,100.0,1
+VX-101378,35-44,Web Development,Paid Ads,High,No,28.7,3,1,52.0,0
+VX-100299,35-44,App Development,Website Form,Medium,Yes,9.8,6,2,62.0,1
+VX-100946,35-44,App Development,Website Form,High,Yes,0.8,5,1,47.0,1
+VX-101174,35-44,SEO,Website Form,Medium,no,19.6,6,0,42.0,0
+VX-101310,25-34, Branding ,Social Media,low,No,22.0,4,1,45.0,0
+VX-101205,18-24,Web Development,Website Form,Medium,No,12.4,2,3,,0
+VX-100240,45-54,App Development,Social Media,Low,No,13.1,7,2,75.0,0
+VX-100199,25-34,Digital Marketing,Website Form,Medium,No,5.1,4,5,53.0,1
+VX-100045,45-54,SEO,Referral,Low,Yes,22.8,4,6,77.0,1
+VX-101005,25-34,Web Development,Website Form,Low,Yes,,5,6,69.0,1
+VX-100540,55+,Web Development,Social Media,Low,Yes,8.0,9,2,,0
+VX-100825,18-24,Web Development,Referral,Medium,Yes,4.7,5,4,79.0,1
+VX-100137,35-44,App Development,Website Form,Low,No,13.5,5,0,43.0,0
+VX-100798,35-44,Web Development,Email Campaign,Low,No,4.3,2,4,21.0,0
+VX-101311,55+, Web Development ,Paid Ads,Medium,No,6.4,1,0,17.0,1
+VX-100533,35-44,App Development,Website Form,Low,Yes,35.9,4,7,60.0,0
+VX-100940,25-34,Web Development,Website Form,medium,No,8.0,7,0,248.0,0
+VX-101074,45-54,Digital Marketing,Email Campaign,Medium,No,21.4,3,1,32.0,0
+VX-101312,35-44,Web Development,Paid Ads,Medium,No,5.1,5,1,44.0,0
+VX-101193,55+,Web Development,Social Media,Medium,No,13.2,5,2,51.0,0
+VX-100381,55+,App Development,Website Form,Medium,No,9.0,7,1,71.0,1
+VX-100907,18-24,Digital Marketing,Paid Ads,Low,Yes,15.4,6,5,85.0,1
+VX-101152,18-24,SEO,Email Campaign,Medium,no,11.8,7,0,58.0,0
+VX-100638,45-54,SEO,Website Form,Low,no,7.6,4,2,34.0,0
+VX-100448,18-24,Digital Marketing,Email Campaign,Low,Yes,22.6,5,4,79.0,1
+VX-100510,18-24,Web Development,Email Campaign,Medium,Yes,14.3,5,5,,1
+VX-100423,18-24,SEO,Paid Ads,High,No,21.6,4,1,39.0,0
+VX-100006,45-54,Branding,Social Media,Low,Yes,7.6,4,1,46.0,1
+VX-100097,18-24,SEO,Website Form,Medium,No,10.4,4,4,71.0,0
+VX-100410,35-44,Web Development,Social Media,High,no,28.1,6,2,60.0,1
+VX-100158,35-44,SEO,Website Form,Medium,Yes,14.0,8,4,77.0,0
+VX-100564,35-44,App Development,Social Media,Medium,No,17.6,9,2,59.0,0
+VX-100640,35-44,Digital Marketing,Website Form,High,No,14.3,3,0,27.0,0
+VX-101167,35-44,Web Development,Website Form,Medium,No,9.1,4,3,65.0,0
+VX-101116,18-24,Web Development,Referral,Low,No,2.9,6,1,75.0,1
+VX-100904,55+,Digital Marketing,Website Form,High,no,13.9,3,2,45.0,1
+VX-100032,25-34,Web Development,Social Media,Medium,No,7.1,6,0,48.0,0
+VX-100888,25-34,Web Development,Referral,High,Yes,4.7,6,3,60.0,1
+VX-100156,25-34, Branding ,Website Form,High,Yes,13.6,6,4,66.0,1
+VX-100521,25-34,Digital Marketing,Social Media,Medium,No,9.1,3,5,68.0,0
+VX-100334,18-24,App Development,Paid Ads,Medium,yes,7.7,6,3,49.0,0
+VX-100490,35-44,Web Development,Social Media,Medium,Yes,10.5,5,3,64.0,1
+VX-100878,35-44,App Development,Social Media,Low,Yes,9.9,6,4,67.0,1
+VX-100258,18-24,Digital Marketing,Website Form,low,No,9.4,4,1,30.0,0
+VX-100171,35-44,SEO,Paid Ads,Low,No,13.8,4,0,37.0,0
+VX-101324,25-34,Web Development,Email Campaign,low,Yes,16.2,2,4,44.0,0
+VX-100593,35-44,Web Development,Website Form,High,No,2.4,2,4,56.0,0
+VX-100547,18-24,Branding,Referral,Medium,Yes,9.3,6,7,86.0,0
+VX-100236,25-34,Digital Marketing,Referral,High,No,7.2,5,0,40.0,1
+VX-100384,25-34,Web Development,Website Form,Medium,No,8.9,2,1,276.0,1
+VX-100748,45-54,App Development,Website Form,Medium,No,2.3,3,1,41.0,0
+VX-100937,18-24,Digital Marketing,Paid Ads,Low,No,19.0,3,1,,0
+VX-100023,45-54,Digital Marketing,Email Campaign,Low,NO,10.0,3,2,35.0,0
+VX-101168,45-54,SEO,Social Media,High,No,11.8,2,2,29.0,0
+VX-100622,55+, Web Development ,Paid Ads,Medium,No,46.6,2,2,44.0,0
+VX-101219,18-24,Branding,Paid Ads,Low,no,14.2,3,1,35.0,0
+VX-100406,25-34,Web Development,Website Form,,No,8.5,4,2,46.0,1
+VX-100545,25-34, Branding ,Paid Ads,Low,No,17.5,4,0,37.0,0
+VX-100959,35-44,Web Development,Website Form,Low,Yes,17.5,7,4,90.0,1
+VX-100477,35-44,Digital Marketing,Referral,Low,Yes,17.6,7,2,63.0,1
+VX-100012,35-44,App Development,Paid Ads,Medium,Yes,15.1,5,5,,0
+VX-100967,25-34, Digital Marketing ,Social Media,Medium,No,11.3,3,1,35.0,1
+VX-101215,35-44, Digital Marketing ,Referral,Medium,Yes,11.7,6,4,79.0,1
+VX-100681,25-34,Web Development,Paid Ads,Medium,Yes,5.5,7,7,84.0,1
+VX-100153,35-44,Digital Marketing,Email Campaign,Low,No,27.1,3,3,40.0,0
+VX-100122,18-24,Branding,Website Form,Medium,Yes,11.6,6,2,66.0,1
+VX-100172,25-34,SEO,Website Form,Medium,YES,9.5,8,2,77.0,1
+VX-100993,25-34, Web Development ,Website Form,Medium,No,3.5,5,3,59.0,0
+VX-100120,35-44,Digital Marketing,Email Campaign,High,No,1.0,4,1,45.0,1
+VX-100065,35-44,SEO,Website Form,Medium,No,7.5,4,3,65.0,1
+VX-100582,18-24,App Development,Email Campaign,,No,32.8,4,1,52.0,1
+VX-100806,35-44,SEO,Website Form,Medium,No,15.0,4,2,54.0,0
+VX-100600,25-34,App Development,Website Form,Medium,No,16.7,3,3,34.0,0
+VX-100463,25-34,Digital Marketing,Social Media,Low,No,31.0,2,2,29.0,0
+VX-101117,45-54,Web Development,Referral,High,No,18.8,3,2,51.0,1
+VX-100884,25-34,Web Development,Website Form,High,No,3.3,5,3,51.0,0
+VX-101022,55+,App Development,Referral,Low,Yes,4.2,4,6,71.0,1
+VX-100817,35-44, Branding ,Website Form,medium,Yes,8.2,6,2,52.0,1
+VX-101043,35-44,Digital Marketing,Referral,Low,Yes,25.3,7,2,60.0,0
+VX-100752,25-34,App Development,Social Media,Low,No,47.1,5,3,70.0,0
+VX-100519,45-54,Branding,Social Media,Low,Yes,23.4,4,5,76.0,0
+VX-100954,55+,Digital Marketing,Social Media,Low,Yes,15.5,8,2,77.0,0
+VX-100629,45-54,SEO,Paid Ads,High,No,7.3,3,1,40.0,0
+VX-101194,45-54,Digital Marketing,Website Form,Medium,No,55.6,1,3,44.0,0
+VX-100919,35-44,Branding,Social Media,Medium,Yes,13.2,5,0,58.0,1
+VX-100586,25-34,Web Development,Referral,Low,No,6.0,4,5,68.0,0
+VX-101253,35-44,App Development,Social Media,Low,No,17.2,2,1,36.0,0
+VX-100745,35-44,Branding,Social Media,High,No,9.2,4,2,46.0,0
+VX-101381,18-24,Web Development,Website Form,,No,26.6,4,0,52.0,0
+VX-101164,25-34, SEO ,Social Media,High,yes,8.9,5,2,45.0,1
+VX-101349,,Web Development,Social Media,Medium,No,4.9,4,3,53.0,0
+VX-100522,25-34,Digital Marketing,Paid Ads,,No,8.0,2,2,50.0,0
+VX-100357,45-54,Branding,Website Form,Medium,Yes,10.2,2,1,13.0,0
+VX-100197,45-54,Web Development,Website Form,Medium,No,17.0,5,1,58.0,1
+VX-101247,25-34,App Development,Website Form,Low,No,5.6,4,1,61.0,0
+VX-100150,45-54,Web Development,Website Form,Low,Yes,40.2,6,2,52.0,0
+VX-100528,45-54,Web Development,Referral,Medium,No,2.3,6,0,37.0,1
+VX-100690,25-34, Digital Marketing ,Referral,Low,No,7.9,3,3,46.0,1
+VX-100180,45-54,Branding,Referral,Medium,No,20.9,7,1,48.0,0
+VX-100291,18-24,Branding,Email Campaign,High,no,13.3,2,3,51.0,0
+VX-100780,25-34,App Development,Paid Ads,High,No,7.7,3,1,47.0,0
+VX-100918,25-34,Digital Marketing,Email Campaign,Low,Yes,6.5,7,4,76.0,1
+VX-100832,25-34,Web Development,Referral,Low,Yes,1.0,8,1,62.0,1
+VX-101173,45-54,App Development,Website Form,Medium,NO,7.1,5,2,59.0,1
+VX-100174,25-34,Web Development,Referral,Medium,yes,10.9,7,4,77.0,1
+VX-101046,25-34,Web Development,Paid Ads,Medium,Yes,32.8,11,0,89.0,1
+VX-100650,25-34,Branding,Paid Ads,Low,No,6.0,4,2,49.0,0
+VX-100257,18-24,App Development,Website Form,Medium,No,8.3,2,2,43.0,0
+VX-101266,25-34,Branding,Social Media,Medium,No,14.8,5,3,61.0,1
+VX-101072,25-34,App Development,Website Form,High,no,9.7,3,2,32.0,1
+VX-100021,25-34,Digital Marketing,Paid Ads,Low,Yes,13.5,4,2,48.0,0
+VX-101391,45-54,Web Development,Paid Ads,Medium,Yes,22.3,5,3,67.0,1
+VX-101273,35-44, Digital Marketing ,Website Form,Low,Yes,2.0,4,2,46.0,0
+VX-100445,35-44,SEO,Referral,High,No,3.8,2,3,45.0,1
+VX-100739,25-34, App Development ,Social Media,Low,No,59.1,4,2,56.0,0
+VX-100481,25-34,SEO,Website Form,Low,Yes,11.9,7,3,76.0,1
+VX-100474,25-34,Branding,Paid Ads,Medium,No,4.9,2,2,44.0,1
+VX-101086,45-54,App Development,Email Campaign,Medium,No,15.6,3,3,60.0,1
+VX-100118,25-34,Web Development,Website Form,High,Yes,17.5,5,3,55.0,1
+VX-100178,45-54,Branding,Paid Ads,High,No,,2,0,,1
+VX-101144,25-34,Digital Marketing,Website Form,Low,Yes,13.8,6,2,54.0,1
+VX-100337,,Web Development,Website Form,High,No,8.1,5,1,30.0,1
+VX-101003,25-34,Branding,Website Form,Medium,Yes,12.6,6,2,62.0,1
+VX-100609,25-34,SEO,Website Form,medium,no,22.4,3,5,52.0,1
+VX-100297,45-54,App Development,Social Media,Medium,No,25.6,2,1,19.0,1
+VX-101145,25-34,Digital Marketing,Email Campaign,Low,Yes,6.5,8,3,85.0,1
+VX-100765,18-24,Digital Marketing,Paid Ads,,Yes,7.6,7,5,89.0,0
+VX-100674,35-44, Digital Marketing ,Referral,Medium,Yes,12.9,5,2,67.0,1
+VX-100761,25-34,Digital Marketing,Referral,Low,No,17.1,3,2,40.0,1
+VX-101338,45-54,SEO,Paid Ads,Low,Yes,29.6,3,6,71.0,1
+VX-100109,45-54,App Development,Referral,Medium,No,27.7,2,2,34.0,1
+VX-100413,45-54,Web Development,Referral,Medium,No,5.0,4,1,62.0,1
+VX-100667,55+,Branding,Social Media,Low,No,24.1,1,1,27.0,1
+VX-101207,35-44, Web Development ,Website Form,low,No,3.8,4,1,31.0,0
+VX-101327,35-44,Web Development,Social Media,Low,No,23.7,3,3,50.0,0
+VX-100542,45-54,Digital Marketing,Website Form,Medium,Yes,11.6,6,7,100.0,1
+VX-100719,55+,Web Development,Paid Ads,Medium,No,12.9,3,0,,0
+VX-101244,25-34,Digital Marketing,Social Media,High,No,10.5,6,2,73.0,1
+VX-100305,25-34,Branding,Paid Ads,Medium,no,15.1,3,2,45.0,1
+VX-100649,18-24,Digital Marketing,Paid Ads,Medium,No,31.7,2,0,23.0,0
+VX-100968,35-44,Digital Marketing,Paid Ads,Low,No,40.5,4,4,68.0,0
+VX-100712,45-54,Web Development,Email Campaign,Medium,No,6.2,3,0,25.0,0
+VX-100908,25-34,SEO,Social Media,Medium,No,16.0,7,1,58.0,0
+VX-101264,35-44,Digital Marketing,Website Form,Low,No,9.9,2,3,33.0,0
+VX-100020,45-54,SEO,Social Media,Low,No,32.9,2,4,50.0,0
+VX-100914,55+,Digital Marketing,Paid Ads,Low,Yes,37.8,6,2,58.0,0
+VX-101284,55+, Digital Marketing ,Referral,High,No,3.8,5,2,58.0,1
+VX-100939,18-24,Web Development,Social Media,High,No,29.1,3,3,46.0,1
+VX-100732,18-24,Branding,Social Media,Medium,No,21.3,1,2,33.0,0
+VX-100101,35-44,Branding,Email Campaign,Medium,Yes,4.9,1,7,37.0,0
+VX-101138,18-24, Web Development ,Referral,High,No,14.2,3,3,26.0,1
+VX-100772,35-44,Digital Marketing,Social Media,Low,No,21.6,7,2,78.0,0
+VX-100139,18-24,Digital Marketing,Website Form,,no,10.4,3,2,,0
+VX-101008,35-44,Digital Marketing,Email Campaign,low,Yes,39.2,4,2,51.0,0
+VX-100223,55+,Web Development,Referral,Low,Yes,9.3,2,2,33.0,0
+VX-100075,25-34,Digital Marketing,Website Form,Low,No,3.3,4,4,62.0,1
+VX-100857,, App Development ,Social Media,Medium,No,16.5,6,2,58.0,1
+VX-100552,25-34,App Development,Website Form,Low,yes,11.5,6,3,78.0,0
+VX-100393,35-44,SEO,Paid Ads,Low,No,,2,2,38.0,0
+VX-100460,35-44,SEO,Website Form,Medium,No,2.2,4,2,,1
+VX-100877,25-34,Web Development,Referral,Low,No,34.5,3,0,30.0,0
+VX-100882,55+,Digital Marketing,Social Media,Medium,No,30.6,5,1,34.0,0
+VX-100800,35-44,Web Development,Social Media,Low,Yes,5.9,4,6,65.0,0
+VX-100746,25-34,Web Development,Social Media,Medium,No,28.9,3,0,39.0,0
+VX-101150,25-34,SEO,Social Media,High,yes,44.2,6,2,68.0,1
+VX-101021,35-44,Web Development,Paid Ads,Medium,Yes,35.7,5,3,58.0,1
+VX-100205,25-34,Digital Marketing,Paid Ads,Medium,No,20.5,4,1,55.0,1
+VX-100643,25-34,Branding,Social Media,Medium,No,31.0,2,2,34.0,0
+VX-101163,25-34,Digital Marketing,Social Media,High,No,6.9,4,1,55.0,1
+VX-100588,25-34,Branding,Social Media,Low,No,28.3,2,8,63.0,0
+VX-100037,25-34,Digital Marketing,Social Media,High,No,7.2,3,1,42.0,1
+VX-100847,35-44,SEO,Social Media,High,No,,6,2,59.0,0
+VX-101221,25-34,Branding,Website Form,Medium,No,8.0,4,1,42.0,0
+VX-100360,55+,Digital Marketing,Email Campaign,High,Yes,9.0,8,3,78.0,1
+VX-100526,55+,Digital Marketing,Social Media,High,Yes,9.7,6,3,74.0,1
+VX-100831,35-44,SEO,Email Campaign,High,No,28.5,3,1,33.0,1
+VX-100573,45-54, Digital Marketing ,Website Form,Medium,No,12.3,5,0,33.0,0
+VX-101028,35-44, SEO ,Email Campaign,Low,Yes,21.8,11,0,82.0,0
+VX-101281,25-34,App Development,Social Media,Low,No,14.9,3,2,44.0,0
+VX-101147,45-54, Web Development ,Website Form,Medium,No,7.8,6,0,45.0,0
+VX-100708,25-34,Digital Marketing,Paid Ads,Medium,yes,11.4,3,4,50.0,1
+VX-100595,25-34,App Development,Email Campaign,Low,No,16.5,5,1,48.0,0
+VX-100124,18-24,SEO,Website Form,Low,No,16.6,3,2,23.0,0
+VX-100623,25-34,Web Development,Social Media,Medium,Yes,13.2,6,1,55.0,0
+VX-100723,55+,Web Development,Social Media,High,Yes,9.8,3,3,40.0,0
+VX-101240,45-54,SEO,Social Media,Low,No,15.1,3,0,39.0,0
+VX-101370,18-24,Web Development,Email Campaign,Low,NO,13.1,1,0,22.0,0
+VX-101374,55+,App Development,Paid Ads,Low,No,17.8,4,1,53.0,0
+VX-101090,,Branding,Website Form,Low,No,,6,1,48.0,0
+VX-100395,25-34,Digital Marketing,Social Media,High,no,2.2,6,3,63.0,1
+VX-100839,35-44,Digital Marketing,Referral,Medium,No,14.3,2,2,37.0,1
+VX-101152,18-24,SEO,Email Campaign,Medium,no,11.8,7,0,58.0,0
+VX-100184,45-54,SEO,Website Form,High,Yes,9.5,6,1,59.0,1
+VX-100810,18-24,Branding,Paid Ads,Low,Yes,18.7,4,4,,0
+VX-100055,45-54,Web Development,Email Campaign,Low,YES,7.3,5,3,56.0,0
+VX-101142,45-54,Digital Marketing,Website Form,High,Yes,17.5,6,3,78.0,1
+VX-101230,25-34,Web Development,Referral,Low,No,11.7,4,1,56.0,1
+VX-100797,25-34,Digital Marketing,Email Campaign,Medium,Yes,37.8,5,4,,1
+VX-101328,25-34,Digital Marketing,Paid Ads,High,Yes,28.9,4,4,54.0,1
+VX-100165,25-34,Digital Marketing,Referral,low,No,15.5,2,2,31.0,0
+VX-101241,25-34,App Development,Paid Ads,High,No,9.0,1,2,24.0,1
+VX-100764,45-54,App Development,Email Campaign,Low,No,13.9,3,1,39.0,0
+VX-100779,45-54,Branding,Website Form,High,No,15.7,3,0,39.0,0
+VX-100115,45-54,Digital Marketing,Website Form,Medium,Yes,7.3,4,1,35.0,0
+VX-100682,18-24,SEO,Paid Ads,Medium,No,27.0,2,3,44.0,0
+VX-100310,25-34,App Development,Social Media,Medium,No,14.4,1,2,,1
+VX-101347,25-34,Web Development,Paid Ads,Medium,No,15.1,5,2,,0
+VX-100475,25-34,App Development,Paid Ads,Low,No,6.8,5,2,58.0,0
+VX-100420,35-44,Branding,Social Media,Low,No,22.1,5,1,58.0,0
+VX-100198,25-34,App Development,Email Campaign,Low,No,31.0,5,2,63.0,0
+VX-100554,,Branding,Referral,High,No,2.0,3,3,54.0,1
+VX-101130,55+,SEO,Referral,Medium,No,12.2,5,1,48.0,0
+VX-100928,35-44,SEO,Paid Ads,High,No,4.2,3,0,42.0,0
+VX-101051,18-24,App Development,Social Media,Low,No,13.0,2,0,,0
+VX-100218,55+,Branding,Social Media,Low,Yes,21.0,5,2,49.0,0
+VX-100211,35-44,App Development,Email Campaign,,Yes,5.9,4,3,52.0,0
+VX-100634,18-24,Web Development,Website Form,Low,Yes,4.5,3,1,35.0,0
+VX-100642,18-24,SEO,Website Form,Low,Yes,24.2,7,5,88.0,0
+VX-100906,35-44,Digital Marketing,Social Media,Low,no,21.9,3,2,51.0,0
+VX-100962,18-24, Digital Marketing ,Website Form,Low,Yes,3.1,9,7,88.0,0
+VX-100711,,Digital Marketing,Paid Ads,Medium,No,32.4,3,0,35.0,0
+VX-100054,,Digital Marketing,Paid Ads,High,YES,12.9,2,7,61.0,1
+VX-100531,35-44,SEO,Social Media,High,No,10.1,4,2,51.0,0
+VX-101094,35-44,Branding,Email Campaign,Medium,No,27.3,4,2,56.0,0
+VX-100648,35-44,Web Development,Social Media,Low,No,13.0,6,1,57.0,0
+VX-100902,18-24,Digital Marketing,Referral,Low,No,6.7,5,5,69.0,1
+VX-100013,45-54,Branding,Website Form,Low,No,26.1,7,1,55.0,0
+VX-100570,,Digital Marketing,Email Campaign,Medium,No,19.0,1,1,10.0,0
+VX-100687,55+,Digital Marketing,Paid Ads,medium,No,8.5,2,3,32.0,0
+VX-101172,25-34,App Development,Referral,Low,No,28.3,3,4,52.0,0
+VX-100329,25-34,Digital Marketing,Email Campaign,Medium,Yes,28.7,4,3,67.0,1
+VX-100891,55+,SEO,Referral,medium,No,10.9,2,3,48.0,0
+VX-100492,35-44,SEO,Referral,Medium,No,13.4,3,3,55.0,1
+VX-100718,35-44,Web Development,Referral,High,NO,5.2,3,1,42.0,1
+VX-100985,55+,App Development,Email Campaign,High,Yes,5.3,6,4,74.0,1
+VX-100909,25-34,Branding,Paid Ads,High,No,32.3,3,3,41.0,0
+VX-100225,55+, App Development ,Website Form,Low,yes,24.6,7,1,73.0,1
+VX-101107,25-34,Branding,Email Campaign,,No,21.5,5,1,222.0,1
+VX-100147,35-44,App Development,Paid Ads,High,No,9.6,4,0,44.0,1
+VX-100791,25-34,SEO,Social Media,High,No,18.9,1,2,35.0,0
+VX-100953,25-34,SEO,Paid Ads,Low,Yes,8.3,11,4,100.0,1
+VX-100254,25-34, Branding ,Referral,Medium,Yes,1.3,11,1,83.0,1
+VX-100865,45-54,Web Development,Social Media,Medium,No,6.2,2,2,32.0,1
+VX-100106,25-34,App Development,Email Campaign,Medium,No,16.7,6,3,66.0,1
+VX-100565,35-44,Web Development,Social Media,Low,No,7.1,3,3,,0
+VX-100392,35-44,Web Development,Referral,Medium,No,9.0,4,2,54.0,0
+VX-101111,25-34,Digital Marketing,Social Media,Low,No,,5,5,79.0,1
+VX-101259,55+,Web Development,Paid Ads,Low,Yes,25.0,5,4,61.0,0
+VX-100230,25-34,Digital Marketing,Paid Ads,Low,No,,1,3,31.0,1
+VX-100716,35-44,Digital Marketing,Referral,medium,No,15.1,2,0,14.0,0
+VX-100146,25-34,Web Development,Social Media,Medium,Yes,7.5,6,0,51.0,1
+VX-101375,18-24,Digital Marketing,Referral,Low,yes,11.3,7,8,100.0,1
+VX-100167,45-54, Web Development ,Social Media,Medium,No,46.9,5,0,35.0,0
+VX-100610,35-44,Web Development,Paid Ads,Medium,Yes,24.8,12,1,96.0,1
+VX-100956,45-54,Digital Marketing,Website Form,low,No,11.0,5,1,32.0,0
+VX-100052,45-54,App Development,Paid Ads,low,No,38.7,2,5,57.0,0
+VX-100598,55+,App Development,Paid Ads,high,No,6.3,5,1,49.0,1
+VX-100731,18-24,App Development,Website Form,Medium,No,5.4,3,0,34.0,1
+VX-100808,35-44,Web Development,Website Form,Medium,No,9.1,4,0,43.0,0
+VX-101263,55+,Web Development,Referral,Medium,Yes,17.5,9,6,96.0,0
+VX-100828,45-54,Web Development,Paid Ads,Medium,No,14.6,5,2,70.0,0
+VX-100556,25-34,SEO,Referral,medium,No,3.9,2,0,37.0,0
+VX-100686,25-34,Digital Marketing,Paid Ads,Low,No,22.7,1,2,30.0,0
+VX-100301,18-24,Branding,Website Form,Medium,yes,6.4,9,2,79.0,1
+VX-100399,25-34,SEO,Email Campaign,Medium,No,18.0,7,2,,1
+VX-100663,18-24,Web Development,Social Media,Medium,No,,2,1,44.0,0
+VX-101097,45-54,Web Development,Social Media,Low,Yes,6.5,6,1,49.0,1
+VX-100651,45-54, Web Development ,Referral,Medium,Yes,1.5,6,4,74.0,0
+VX-100162,25-34,Branding,Website Form,Medium,No,2.8,4,4,52.0,0
+VX-100858,25-34,Web Development,Email Campaign,Medium,NO,6.3,7,0,53.0,1
+VX-100468,25-34,Digital Marketing,Email Campaign,High,Yes,12.4,4,2,53.0,1
+VX-101058,35-44,Digital Marketing,Paid Ads,Medium,No,,4,2,42.0,0
+VX-101119,45-54,Web Development,Social Media,Low,No,12.1,2,4,41.0,0
+VX-100597,35-44,Digital Marketing,Website Form,Medium,Yes,11.8,4,3,49.0,1
+VX-101251,18-24,Digital Marketing,Paid Ads,Medium,No,35.3,3,3,48.0,1
+VX-100347,25-34,Digital Marketing,Paid Ads,Low,no,20.9,2,2,46.0,1
+VX-100571,,Branding,Website Form,medium,No,5.5,5,3,66.0,1
+VX-100280,18-24,App Development,Website Form,Medium,Yes,16.9,4,3,46.0,0
+VX-100990,35-44,SEO,Website Form,Medium,Yes,1.7,3,3,48.0,1
+VX-101153,25-34,Branding,Paid Ads,Medium,no,21.1,4,0,49.0,0
+VX-101279,35-44,Digital Marketing,Social Media,High,Yes,25.5,6,3,70.0,1
+VX-100870,35-44,SEO,Social Media,,No,15.9,3,2,37.0,0
+VX-100715,25-34,Branding,Paid Ads,High,No,11.1,4,1,37.0,0
+VX-100009,25-34,SEO,Website Form,Low,no,21.1,3,1,51.0,0
+VX-100740,18-24,Branding,Email Campaign,High,NO,43.1,2,1,41.0,0
+VX-100270,18-24,Digital Marketing,Website Form,High,No,1.2,4,0,30.0,0
+VX-101204,18-24,Web Development,Referral,Medium,No,,1,0,29.0,0
+VX-100285,25-34,Web Development,Social Media,Low,Yes,9.2,9,5,81.0,0
+VX-100541,35-44,Digital Marketing,Paid Ads,,Yes,8.0,8,4,92.0,1
+VX-100741,18-24,Digital Marketing,Referral,Low,No,8.4,3,5,43.0,0
+VX-100444,25-34,Web Development,Website Form,Low,No,3.8,1,2,27.0,1
+VX-101318,35-44,Web Development,Social Media,Low,Yes,-17.5,5,2,,0
+VX-100830,35-44,Digital Marketing,Website Form,Low,No,6.9,5,4,61.0,1
+VX-100103,55+,Digital Marketing,Email Campaign,Low,No,4.4,3,3,54.0,0
+VX-101282,25-34,Web Development,Paid Ads,Low,No,,3,0,22.0,0
+VX-100099,55+,SEO,Social Media,Medium,yes,44.2,11,8,100.0,0
+VX-100781,45-54,Branding,Paid Ads,Low,No,24.0,2,6,59.0,0
+VX-100803,35-44,Web Development,Website Form,low,No,3.2,6,2,68.0,0
+VX-100855,25-34, Digital Marketing ,Website Form,Low,No,6.2,3,2,48.0,0
+VX-101122,45-54,Digital Marketing,Social Media,High,No,7.8,2,3,49.0,1
+VX-100495,35-44,Web Development,Email Campaign,Medium,No,12.5,3,3,48.0,0
+VX-100432,35-44,Digital Marketing,Referral,Low,Yes,6.4,8,3,78.0,1
+VX-100142,55+,Digital Marketing,Paid Ads,Medium,No,3.9,1,3,42.0,0
+VX-100827,25-34,Web Development,Paid Ads,Low,No,11.9,4,3,56.0,0
+VX-100166,45-54,Web Development,Social Media,Medium,Yes,-17.2,8,4,95.0,0
+VX-100161,45-54,SEO,Email Campaign,Medium,No,18.1,5,2,51.0,1
+VX-101040,18-24,Branding,Paid Ads,Low,Yes,36.8,5,2,49.0,0
+VX-100007,45-54,Web Development,Paid Ads,Low,No,14.3,3,2,42.0,0
+VX-100173,55+,App Development,Email Campaign,Low,No,19.3,7,2,,0
+VX-100446,55+,Digital Marketing,Social Media,High,No,-14.5,4,0,45.0,1
+VX-101276,25-34,Digital Marketing,Paid Ads,,Yes,31.0,3,5,42.0,0
+VX-100866,45-54,App Development,Website Form,Medium,Yes,8.2,4,4,71.0,1
+VX-100579,25-34,Web Development,Email Campaign,Medium,No,2.7,3,1,32.0,0
+VX-101351,45-54, App Development ,Referral,Low,No,1.1,3,1,37.0,0
+VX-100204,18-24, Web Development ,Website Form,Medium,No,12.7,5,2,49.0,1
+VX-100902,18-24,Digital Marketing,Referral,Low,No,6.7,5,5,69.0,1
+VX-100580,35-44,App Development,Social Media,Low,Yes,2.7,5,4,65.0,0
+VX-101246,35-44,App Development,Website Form,high,Yes,5.9,7,3,60.0,1
+VX-100485,25-34,Digital Marketing,Paid Ads,Low,No,37.7,5,1,46.0,0
+VX-101000,18-24,SEO,Website Form,Low,Yes,2.3,6,1,58.0,1
+VX-100644,35-44,Branding,Email Campaign,Medium,yes,29.5,6,3,70.0,1
+VX-100111,25-34,Web Development,Website Form,Medium,no,1.4,3,2,54.0,1
+VX-101326,25-34,App Development,Referral,Low,Yes,6.7,4,6,70.0,1
+VX-100859,35-44,Digital Marketing,Website Form,Low,No,3.4,4,2,65.0,0
+VX-101137,25-34,Digital Marketing,Paid Ads,Medium,No,7.4,8,1,68.0,1
+VX-100003,35-44,Digital Marketing,Referral,Medium,No,9.1,3,0,40.0,1
+VX-101224,25-34,SEO,Paid Ads,High,No,12.4,4,1,54.0,1
+VX-100358,35-44,Branding,Email Campaign,Low,No,40.7,1,2,26.0,0
+VX-100428,18-24,Branding,Paid Ads,Low,No,33.3,1,2,31.0,0
+VX-100276,25-34,App Development,Social Media,medium,No,14.0,7,3,70.0,0
+VX-100266,25-34,App Development,Social Media,Low,No,23.9,4,2,55.0,1
+VX-100749,45-54,Web Development,Paid Ads,Medium,no,11.4,3,2,43.0,0
+VX-101243,18-24,App Development,Email Campaign,Medium,Yes,16.8,9,1,,0
+VX-100030,35-44,Branding,Website Form,High,No,6.6,3,1,38.0,1
+VX-100445,35-44,SEO,Referral,High,No,3.8,2,3,45.0,1
+VX-100760,35-44,Digital Marketing,Paid Ads,Low,Yes,37.5,3,4,,0
+VX-100373,25-34, Branding ,Email Campaign,Low,No,6.3,3,1,,0
+VX-100617,25-34,Web Development,Paid Ads,Medium,No,23.3,3,3,40.0,0
+VX-100832,25-34,Web Development,Referral,Low,Yes,1.0,8,1,62.0,1
+VX-101184,25-34,Web Development,Social Media,Low,No,7.4,3,2,51.0,0
+VX-100342,45-54, Web Development ,Email Campaign,High,Yes,39.8,10,4,100.0,0
+VX-101397,45-54,Digital Marketing,Email Campaign,Medium,No,16.6,5,1,64.0,0
+VX-101258,35-44,Web Development,Social Media,Low,Yes,16.3,9,1,81.0,0
+VX-100944,25-34,App Development,Website Form,Low,Yes,9.1,2,1,41.0,0
+VX-100391,18-24,Digital Marketing,Website Form,Medium,No,11.5,2,3,41.0,0
+VX-100228,35-44,Web Development,Referral,Low,No,12.0,2,2,32.0,1
+VX-101235,18-24,Digital Marketing,Social Media,Low,Yes,6.9,5,2,49.0,1
+VX-100517,35-44,App Development,Website Form,Medium,Yes,2.1,3,3,56.0,1
+VX-100479,25-34,SEO,Website Form,High,no,,5,1,66.0,1
+VX-100799,35-44,SEO,Social Media,Medium,No,31.1,3,2,40.0,0
+VX-100034,25-34,Web Development,Paid Ads,Low,YES,5.9,9,3,77.0,1
+VX-100008,18-24,App Development,Website Form,Medium,no,14.2,3,5,58.0,0
+VX-100231,,App Development,Website Form,High,Yes,9.5,3,5,64.0,1
+VX-100440,45-54,Web Development,Email Campaign,Low,No,42.8,3,2,43.0,0
+VX-100525,25-34,Web Development,Paid Ads,Low,Yes,27.1,2,5,40.0,0
+VX-100624,55+,Digital Marketing,Website Form,Medium,no,21.9,1,2,21.0,0
+VX-101362,35-44, Web Development ,Email Campaign,Low,No,14.7,5,0,43.0,0
+VX-100094,25-34,Digital Marketing,Email Campaign,High,No,9.0,4,0,50.0,1
+VX-100543,55+, Web Development ,Website Form,Low,No,15.5,2,0,24.0,0
+VX-101179,25-34,Branding,Paid Ads,High,No,35.5,4,1,46.0,0
+VX-100970,25-34,Digital Marketing,Email Campaign,Medium,No,37.4,2,4,34.0,0
+VX-101335,45-54,Digital Marketing,Website Form,Medium,No,12.1,5,4,61.0,0
+VX-100209,35-44,Digital Marketing,Paid Ads,Low,No,11.7,3,1,34.0,0
+VX-100281,25-34,App Development,Website Form,,Yes,9.1,3,5,60.0,1
+VX-100389,45-54, Web Development ,Social Media,High,No,37.3,3,1,38.0,0
+VX-100948,45-54, Web Development ,Social Media,High,No,1.2,5,0,47.0,1
+VX-100251,45-54,Digital Marketing,Website Form,High,No,3.5,6,0,56.0,1
+VX-101254,18-24,Digital Marketing,Paid Ads,High,Yes,20.1,4,4,54.0,0
+VX-100890,25-34,Branding,Website Form,Medium,Yes,10.6,4,4,48.0,1
+VX-101262,25-34,Digital Marketing,Website Form,Low,Yes,43.6,6,6,,0
+VX-100520,45-54,Digital Marketing,Website Form,Medium,Yes,6.1,10,1,82.0,1
+VX-101036,25-34,SEO,Paid Ads,Low,Yes,8.3,10,4,81.0,1
+VX-101229,18-24,Web Development,Email Campaign,Medium,No,44.1,1,2,35.0,0
+VX-100668,25-34, Web Development ,Social Media,,Yes,23.1,7,4,,1
+VX-101283,35-44,SEO,Social Media,Low,No,6.3,2,3,,1
+VX-100876,25-34,SEO,Social Media,Medium,No,11.3,6,1,45.0,0
+VX-101208,25-34,SEO,Website Form,Low,No,7.9,5,0,51.0,0
+VX-101257,45-54,SEO,Email Campaign,Medium,Yes,22.2,6,3,79.0,1
+VX-101013,55+,Digital Marketing,Website Form,High,Yes,8.5,3,4,47.0,1
+VX-101275,25-34,Digital Marketing,Social Media,Low,No,12.7,2,5,54.0,0
+VX-100753,25-34,App Development,Referral,High,No,9.7,5,0,40.0,0
+VX-100213,45-54,Digital Marketing,Paid Ads,Low,No,10.6,3,1,31.0,0
+VX-100957,35-44,Digital Marketing,Social Media,Medium,Yes,16.6,11,9,100.0,1
+VX-101225,45-54,Digital Marketing,Email Campaign,Medium,No,17.3,2,0,15.0,0
+VX-100567,18-24,App Development,Paid Ads,Medium,No,14.2,2,1,32.0,0
+VX-100068,18-24, App Development ,Email Campaign,Medium,No,63.7,1,1,22.0,0
+VX-100085,18-24,Web Development,Website Form,Low,Yes,4.7,5,2,64.0,0
+VX-100912,45-54,Digital Marketing,Email Campaign,,Yes,4.1,7,3,63.0,1
+VX-100466,35-44, Branding ,Website Form,High,No,11.6,3,5,60.0,1
+VX-100879,35-44,SEO,Website Form,Medium,Yes,9.7,7,2,,1
+VX-100429,45-54,Digital Marketing,Social Media,Low,Yes,23.9,1,3,38.0,1
+VX-100417,45-54,Digital Marketing,Website Form,Medium,no,,4,1,43.0,0
+VX-100412,18-24,App Development,Paid Ads,Medium,Yes,31.3,5,6,73.0,0
+VX-100196,35-44,Web Development,Paid Ads,Low,no,22.2,3,2,55.0,0
+VX-100284,35-44,Web Development,Paid Ads,High,NO,12.0,4,1,42.0,1
+VX-101135,25-34,SEO,Website Form,Medium,no,8.8,3,2,48.0,1
+VX-100666,45-54,Digital Marketing,Referral,Low,Yes,27.7,5,0,,0
+VX-100684,35-44,SEO,Paid Ads,High,No,6.8,5,2,52.0,1
+VX-100380,35-44,Web Development,Email Campaign,Medium,No,3.5,4,2,44.0,1
+VX-101012,25-34,Digital Marketing,Referral,high,No,4.5,5,1,45.0,0
+VX-101313,18-24,Web Development,Referral,Low,No,8.9,2,3,47.0,1
+VX-100290,45-54,App Development,Email Campaign,Medium,No,4.6,2,2,,0
+VX-100359,35-44, Branding ,Social Media,Medium,Yes,20.0,7,1,57.0,1
+VX-100364,35-44,Web Development,Referral,Low,No,13.4,5,2,52.0,0
+VX-100524,18-24,Web Development,Referral,Low,Yes,32.0,8,6,88.0,1
+VX-100574,45-54,Web Development,Referral,Low,No,11.5,6,1,56.0,0
+VX-100693,25-34,Web Development,Referral,Low,No,3.0,3,1,49.0,0
+VX-100704,25-34, SEO ,Paid Ads,Medium,No,3.2,4,3,59.0,1
+VX-100112,25-34,SEO,Referral,Low,No,5.6,2,1,40.0,0
+VX-101126,35-44,Branding,Referral,Medium,Yes,13.4,5,4,77.0,1
+VX-100414,18-24,App Development,Website Form,Low,Yes,33.7,6,2,71.0,0
+VX-100589,18-24,Web Development,Website Form,Medium,No,10.0,5,0,50.0,1
+VX-101358,35-44, SEO ,Social Media,Medium,No,16.2,3,2,54.0,1
+VX-100486,25-34,Web Development,Paid Ads,Low,No,29.8,2,1,37.0,0
+VX-101076,35-44,Web Development,Website Form,Medium,No,24.8,5,1,47.0,0
+VX-101052,25-34,SEO,Social Media,Low,No,12.7,4,2,73.0,0
+VX-101089,25-34,SEO,Website Form,Medium,No,2.2,5,3,55.0,1
+VX-100874,35-44,App Development,Paid Ads,High,Yes,20.2,9,4,91.0,1
+VX-100843,25-34,Web Development,Website Form,Medium,NO,20.4,3,2,43.0,0
+VX-100966,55+,Digital Marketing,Referral,Low,No,,4,2,54.0,0
+VX-100594,18-24,Digital Marketing,Paid Ads,Low,Yes,43.3,7,2,69.0,1
+VX-100927,45-54,Web Development,Website Form,Low,Yes,6.1,5,2,65.0,1
+VX-100308,25-34,App Development,Website Form,Medium,Yes,11.6,4,3,,0
+VX-100058,18-24,Branding,Paid Ads,High,Yes,51.1,2,5,49.0,0
+VX-100159,45-54,App Development,Email Campaign,Medium,Yes,16.6,7,6,342.0,1
+VX-101315,35-44,Web Development,Website Form,High,No,14.8,5,1,56.0,1
+VX-100186,25-34,Digital Marketing,Website Form,Low,No,15.5,4,2,44.0,0
+VX-100244,35-44,Web Development,Paid Ads,Low,No,37.6,4,4,63.0,0
+VX-101364,25-34,Web Development,Paid Ads,High,Yes,10.4,7,7,81.0,1
+VX-100157,35-44,Digital Marketing,Website Form,Low,No,12.4,4,0,33.0,0
+VX-100126,25-34,Digital Marketing,Paid Ads,Low,No,8.8,2,2,28.0,0
+VX-100322,25-34,SEO,Social Media,Medium,No,10.9,3,3,45.0,0
+VX-101083,,Digital Marketing,Social Media,Low,No,32.7,2,0,29.0,0
+VX-100804,18-24,Digital Marketing,Email Campaign,Low,Yes,9.6,7,1,51.0,0
+VX-100777,25-34, App Development ,Website Form,Low,No,9.8,1,3,34.0,0
+VX-101127,35-44, Branding ,Paid Ads,High,Yes,21.3,6,4,72.0,1
+VX-101183,25-34,Web Development,Website Form,Low,Yes,4.6,4,5,58.0,0
+VX-101190,25-34,App Development,Email Campaign,Medium,No,23.3,4,1,38.0,0
+VX-100845,45-54,Web Development,Paid Ads,High,Yes,12.2,7,3,74.0,0
+VX-100063,45-54,Digital Marketing,Website Form,High,Yes,6.8,7,4,74.0,1
+VX-100273,35-44,Web Development,Paid Ads,Low,Yes,10.5,5,3,60.0,0
+VX-100875,45-54,Web Development,Email Campaign,Low,yes,9.4,11,2,96.0,1
+VX-100182,35-44,Digital Marketing,Website Form,Low,No,16.1,3,1,37.0,0
+VX-101199,35-44,Branding,Website Form,Low,Yes,4.9,4,2,61.0,1
+VX-101075,25-34,Web Development,Social Media,Medium,Yes,0.6,4,4,64.0,0
+VX-100462,55+,Branding,Website Form,Medium,Yes,5.7,10,7,100.0,1
+VX-100089,35-44,Digital Marketing,Website Form,Medium,No,6.5,3,1,24.0,0
+VX-101308,18-24,Web Development,Email Campaign,Medium,No,9.0,5,1,45.0,1
+VX-100050,25-34,App Development,Social Media,Low,No,3.9,5,1,48.0,0
+VX-100853,45-54,SEO,Website Form,Low,Yes,8.1,6,1,56.0,1
+VX-100415,25-34,SEO,Paid Ads,Low,Yes,34.4,6,5,88.0,0
+VX-100676,45-54,Branding,Paid Ads,Low,Yes,5.4,6,2,75.0,1
+VX-100534,18-24,SEO,Social Media,High,Yes,32.1,4,2,49.0,0
+VX-100234,55+,Branding,Email Campaign,Medium,no,10.5,9,1,74.0,1
+VX-100680,18-24,Digital Marketing,Social Media,Low,No,4.5,5,1,33.0,0
+VX-100581,35-44,Digital Marketing,Email Campaign,High,No,4.8,5,2,61.0,1
+VX-100401,45-54,SEO,Email Campaign,High,yes,7.3,8,5,83.0,1
+VX-100698,35-44,Web Development,Social Media,,Yes,35.9,7,2,64.0,1
+VX-100438,35-44,App Development,Social Media,,Yes,32.2,7,3,,0
+VX-100527,55+,SEO,Paid Ads,Low,Yes,25.4,10,4,83.0,1
+VX-101210,45-54,Branding,Website Form,Low,Yes,10.2,6,2,62.0,0
+VX-100717,18-24,Web Development,Website Form,Medium,No,3.6,6,0,56.0,0
+VX-101175,,SEO,Website Form,Medium,No,6.3,3,0,41.0,1
+VX-100132,35-44,SEO,Referral,Low,No,11.9,5,6,77.0,1
+VX-100738,25-34,App Development,Website Form,Medium,Yes,16.5,4,2,61.0,0
+VX-100029,35-44,Digital Marketing,Paid Ads,Low,Yes,29.8,6,7,,0
+VX-100639,45-54,App Development,Referral,Low,No,3.8,4,1,36.0,0
+VX-100238,18-24,Web Development,Website Form,Low,No,10.3,5,2,33.0,0
+VX-100323,35-44,SEO,Social Media,High,Yes,21.1,8,4,89.0,1
+VX-100628,35-44,Digital Marketing,Email Campaign,Medium,No,25.3,7,1,47.0,1
+VX-101365,35-44,Branding,Website Form,Low,No,1.6,5,4,62.0,0
+VX-100769,35-44,Digital Marketing,Social Media,Medium,No,7.9,3,2,21.0,1
+VX-101389,18-24, Digital Marketing ,Referral,Medium,Yes,3.2,8,2,71.0,1
+VX-101325,45-54,App Development,Website Form,High,Yes,6.5,9,1,75.0,1
+VX-101020,,Web Development,Paid Ads,Low,No,35.1,5,0,47.0,0
+VX-100379,35-44,Digital Marketing,Referral,Low,No,17.1,2,3,50.0,0
+VX-100747,25-34,Branding,Email Campaign,Medium,No,18.6,3,2,46.0,0
+VX-101054,25-34,SEO,Referral,Medium,No,29.6,5,3,50.0,0
+VX-100350,35-44,SEO,Website Form,Low,Yes,6.5,8,3,88.0,0
+VX-100051,18-24,SEO,Social Media,Low,no,,1,2,31.0,0
+VX-100507,45-54,Web Development,Website Form,Medium,YES,6.7,4,3,59.0,1
+VX-101060,55+,App Development,Social Media,Medium,YES,15.7,4,3,57.0,1
+VX-101102,45-54,Branding,Paid Ads,Medium,No,20.5,2,4,46.0,0
+VX-101037,25-34,SEO,Website Form,Low,No,,1,1,20.0,0
+VX-101082,55+,Web Development,Paid Ads,High,no,55.9,5,3,54.0,0
+VX-100575,35-44,Web Development,Social Media,Low,No,12.4,3,3,53.0,0
+VX-100233,35-44,SEO,Website Form,Low,no,8.2,2,0,9.0,0
+VX-101248,45-54,SEO,Social Media,Medium,Yes,8.5,4,2,53.0,0
+VX-100743,18-24,App Development,Website Form,High,No,24.1,3,1,36.0,0
+VX-100478,35-44,SEO,Social Media,Low,Yes,4.0,4,4,68.0,0
+VX-100999,25-34,SEO,Social Media,Medium,No,9.7,4,1,46.0,0
+VX-100193,45-54,Digital Marketing,Referral,Medium,YES,8.6,6,4,73.0,1
+VX-100404,55+,SEO,Email Campaign,Medium,YES,2.0,11,3,,0
+VX-101069,25-34,Digital Marketing,Social Media,Medium,NO,15.1,5,3,46.0,0
+VX-100883,25-34, SEO ,Social Media,Low,No,12.9,5,4,63.0,0
+VX-100487,25-34,Web Development,Social Media,Medium,Yes,42.0,6,2,63.0,0
+VX-101048,45-54,SEO,Website Form,low,No,16.5,9,4,91.0,1
+VX-100471,25-34,Digital Marketing,Referral,Low,yes,6.7,6,4,64.0,1
+VX-100256,45-54,Web Development,Referral,Low,NO,14.1,5,2,54.0,0
+VX-100894,45-54,Digital Marketing,Paid Ads,High,No,21.6,3,2,37.0,1
+VX-101302,45-54,Digital Marketing,Referral,Low,No,1.7,4,0,38.0,1
+VX-100138,45-54,App Development,Website Form,Medium,No,17.8,1,1,28.0,0
+VX-100491,35-44,App Development,Paid Ads,Low,Yes,55.6,5,6,74.0,0
+VX-101146,35-44,Branding,Website Form,Medium,No,10.8,8,3,72.0,0
+VX-100578,45-54,App Development,Social Media,Low,No,7.5,2,3,42.0,0
+VX-100706,45-54, SEO ,Referral,High,no,9.3,3,3,41.0,0
+VX-100206,18-24,Branding,Referral,High,No,5.9,4,4,64.0,1
+VX-101200,,Digital Marketing,Paid Ads,Medium,no,15.5,2,6,64.0,0
+VX-100848,25-34,Digital Marketing,Website Form,Low,no,9.7,5,1,62.0,1
+VX-101256,45-54,Digital Marketing,Social Media,Low,Yes,18.1,6,3,61.0,0
+VX-100000,45-54,Digital Marketing,Email Campaign,Low,No,4.0,4,3,65.0,0
+VX-100226,18-24, Digital Marketing ,Website Form,Low,No,18.5,3,5,58.0,0
+VX-100249,25-34,App Development,Website Form,Low,No,21.9,3,4,54.0,0
+VX-100889,35-44,Digital Marketing,Social Media,Low,No,8.6,3,4,,1
+VX-101132,18-24,SEO,Referral,Low,no,1.1,1,2,27.0,1
+VX-100705,35-44,SEO,Referral,Medium,Yes,8.7,11,0,75.0,1
+VX-100979,25-34,SEO,Email Campaign,Medium,NO,22.1,1,2,31.0,0
+VX-101029,25-34,App Development,Paid Ads,low,No,13.2,7,1,58.0,0
+VX-100283,25-34,Digital Marketing,Paid Ads,Low,NO,6.7,3,1,32.0,0
+VX-100313,25-34,Branding,Paid Ads,Low,Yes,3.1,5,3,61.0,0
+VX-100596,35-44,Digital Marketing,Website Form,Low,No,0.9,5,0,48.0,1
+VX-100059,18-24,Digital Marketing,Social Media,Low,No,37.5,2,0,12.0,0
+VX-100047,25-34, Digital Marketing ,Website Form,Low,Yes,8.8,9,3,95.0,1
+VX-101342,35-44, Web Development ,Website Form,Medium,No,6.1,3,4,45.0,1
+VX-101290,25-34,Branding,Website Form,Low,no,13.2,3,3,54.0,0
+VX-100986,25-34,Branding,Email Campaign,Low,Yes,24.7,9,4,100.0,0
+VX-100969,25-34,Digital Marketing,Paid Ads,Low,No,19.5,5,1,58.0,0
+VX-101380,25-34,Web Development,Paid Ads,Medium,No,-13.9,2,5,30.0,0
+VX-101366,25-34, Digital Marketing ,Website Form,Medium,No,14.4,5,2,64.0,1
+VX-100758,18-24,Digital Marketing,Paid Ads,Low,NO,6.3,3,4,62.0,0
+VX-100978,35-44,Web Development,Paid Ads,Medium,No,49.3,4,1,41.0,0
+VX-101330,45-54,Web Development,Paid Ads,Low,Yes,4.1,7,2,81.0,1
+VX-100312,25-34,Branding,Paid Ads,High,No,7.5,3,2,43.0,0
+VX-100091,35-44,App Development,Email Campaign,Low,Yes,39.6,4,3,65.0,0
+VX-100721,25-34,Web Development,Email Campaign,low,No,23.2,5,2,56.0,0
+VX-101265,45-54,App Development,Paid Ads,High,Yes,6.4,8,5,80.0,1
+VX-100734,,Digital Marketing,Paid Ads,Medium,No,2.1,7,1,64.0,0
+VX-100811,18-24,Digital Marketing,Social Media,Medium,No,17.5,2,4,44.0,0
+VX-100459,35-44,Digital Marketing,Website Form,Low,No,8.7,8,1,73.0,0
+VX-101345,35-44,App Development,Website Form,Low,No,0.3,2,1,20.0,0
+VX-100849,55+,Digital Marketing,Paid Ads,High,No,17.5,4,3,58.0,1
+VX-100383,25-34,Web Development,Website Form,High,yes,3.1,10,3,86.0,1
+VX-100017,18-24,SEO,Referral,Low,No,12.8,3,0,32.0,0
+VX-100955,45-54,App Development,Social Media,Low,No,8.4,7,2,65.0,1
+VX-101286,25-34,Web Development,Referral,High,No,6.5,2,2,39.0,0
+VX-101066,25-34,App Development,Referral,Low,No,3.7,3,0,27.0,0
+VX-101209,25-34,Digital Marketing,Referral,High,No,1.4,4,2,59.0,1
+VX-100987,18-24, Web Development ,Website Form,Medium,No,14.7,2,1,,0
+VX-101014,25-34,Digital Marketing,Social Media,Medium,No,41.7,4,4,62.0,1
+VX-101384,,Web Development,Email Campaign,,Yes,9.8,7,5,77.0,1
+VX-101356,35-44,App Development,Email Campaign,Low,Yes,5.6,4,3,55.0,1
+VX-100125,35-44,Web Development,Referral,Medium,No,8.4,3,3,55.0,1
+VX-100511,45-54,Web Development,Email Campaign,low,No,12.8,4,0,37.0,0
+VX-100076,25-34,Digital Marketing,Social Media,medium,Yes,5.4,3,2,40.0,0
+VX-100930,25-34,SEO,Email Campaign,Low,yes,,13,9,100.0,0
+VX-100141,35-44,Web Development,Website Form,Low,No,3.1,5,0,45.0,1
+VX-101397,45-54,Digital Marketing,Email Campaign,Medium,No,16.6,5,1,64.0,0
+VX-100585,35-44,Branding,Paid Ads,High,No,3.6,3,2,48.0,0
+VX-100818,35-44,Branding,Social Media,medium,No,8.5,5,2,59.0,1
+VX-101386,35-44,SEO,Website Form,Medium,no,,1,1,19.0,0
+VX-100787,25-34,SEO,Social Media,Low,Yes,15.5,3,5,38.0,0
+VX-100555,25-34, Branding ,Social Media,Medium,Yes,5.6,2,2,42.0,0
+VX-101176,25-34,SEO,Website Form,Low,No,5.1,2,3,28.0,1
+VX-101056,,SEO,Paid Ads,Medium,NO,19.6,4,1,45.0,1
+VX-100015,25-34,App Development,Referral,Low,Yes,,4,4,45.0,1
+VX-100435,25-34,Web Development,Website Form,Low,No,18.3,3,2,37.0,0
+VX-100498,25-34,Web Development,Social Media,Medium,No,29.8,5,2,65.0,0
+VX-100619,18-24, Digital Marketing ,Paid Ads,Medium,No,16.2,5,1,54.0,1
+VX-100450,18-24,Web Development,Email Campaign,High,No,12.5,4,2,57.0,0
+VX-100766,25-34,Branding,Email Campaign,low,no,19.2,6,0,58.0,0
+VX-100035,25-34,Branding,Paid Ads,Low,No,5.7,1,2,18.0,0
+VX-100947,45-54,App Development,Email Campaign,Medium,No,19.7,5,5,71.0,1
+VX-101249,55+,App Development,Paid Ads,Medium,No,3.0,2,1,33.0,0
+VX-101196,25-34,Web Development,Website Form,Low,No,,2,2,40.0,0
+VX-100981,45-54, Web Development ,Paid Ads,Medium,No,4.6,5,1,59.0,1
+VX-100241,45-54,Web Development,Email Campaign,Low,Yes,12.0,11,6,100.0,0
+VX-100529,25-34,Digital Marketing,Website Form,Medium,Yes,7.3,4,4,50.0,0
+VX-100343,35-44,Branding,Website Form,medium,No,12.3,2,0,27.0,0
+VX-101180,45-54,Web Development,Website Form,Low,NO,,3,2,37.0,0
+VX-101002,18-24,App Development,Social Media,Low,Yes,5.0,12,2,100.0,1
+VX-100886,25-34,Branding,Social Media,Medium,yes,,7,9,100.0,1
+VX-100506,,Digital Marketing,Website Form,Low,No,3.5,4,1,37.0,0
+VX-100977,25-34,SEO,Website Form,Low,No,12.8,4,2,40.0,0
+VX-100215,35-44,Web Development,Paid Ads,Medium,No,23.4,5,0,52.0,0
+VX-100208,18-24,Digital Marketing,Website Form,High,Yes,8.3,4,4,55.0,1
+VX-100945,25-34,Web Development,Paid Ads,High,No,4.4,3,2,57.0,0
+VX-100064,35-44,SEO,Social Media,Medium,Yes,8.1,7,5,91.0,1
+VX-100010,25-34,App Development,Website Form,Medium,Yes,29.6,8,1,62.0,1
+VX-101202,45-54,Digital Marketing,Paid Ads,Medium,No,14.3,1,5,38.0,1
+VX-100252,25-34,Web Development,Paid Ads,Medium,Yes,24.2,6,3,72.0,1
+VX-100603,35-44,SEO,Email Campaign,medium,Yes,35.0,9,4,91.0,0
+VX-100805,25-34,SEO,Website Form,Medium,No,2.5,3,0,37.0,1
+VX-101285,55+,App Development,Email Campaign,High,No,7.6,4,1,56.0,0
+VX-101124,25-34, Branding ,Website Form,Low,No,13.1,3,1,168.0,0
+VX-101191,25-34,Branding,Social Media,Medium,Yes,26.0,7,5,76.0,1
+VX-100314,25-34,Digital Marketing,Social Media,Low,Yes,10.8,7,4,77.0,1
+VX-100518,18-24,SEO,Website Form,medium,No,2.4,3,2,52.0,0
+VX-100465,35-44,App Development,Website Form,Medium,No,3.4,3,3,40.0,0
+VX-100931,25-34,Digital Marketing,Email Campaign,Low,No,9.2,4,1,58.0,1
+VX-100963,18-24,Branding,Website Form,Medium,No,10.0,2,4,52.0,0
+VX-100842,35-44,Digital Marketing,Paid Ads,Low,No,19.1,3,3,41.0,0
+VX-100367,35-44,Web Development,Website Form,Low,Yes,7.7,5,1,57.0,1
+VX-100145,25-34,Digital Marketing,Social Media,,Yes,21.8,4,3,58.0,1
+VX-100362,18-24,Web Development,Website Form,Low,No,2.2,3,1,29.0,0
+VX-100630,55+,Web Development,Referral,medium,No,6.1,3,1,33.0,0
+VX-100090,25-34,Web Development,Website Form,Low,No,10.1,5,3,60.0,1
+VX-100321,35-44,Web Development,Social Media,Medium,Yes,16.4,7,3,70.0,1
+VX-100185,35-44,Branding,Website Form,High,No,4.4,6,2,58.0,0
+VX-100924,25-34,Digital Marketing,Paid Ads,Medium,Yes,15.1,11,4,100.0,0
+VX-101156,18-24,Web Development,Email Campaign,Medium,No,13.4,6,2,61.0,0
+VX-100868,18-24,App Development,Social Media,low,No,24.8,2,3,51.0,0
+VX-100756,25-34,Web Development,Referral,High,Yes,8.9,4,4,62.0,0
+VX-100119,35-44,Web Development,Paid Ads,Medium,Yes,15.6,7,6,79.0,1
+VX-101062,25-34,Web Development,Paid Ads,Low,Yes,21.0,5,6,68.0,0
+VX-100840,18-24, Digital Marketing ,Social Media,Low,No,18.6,3,2,45.0,0
+VX-100493,25-34,Web Development,Referral,High,No,3.0,7,2,76.0,1
+VX-100443,25-34,Branding,Social Media,Low,No,13.6,3,6,70.0,0
+VX-100338,18-24,Digital Marketing,Paid Ads,Low,no,13.1,2,0,,0
+VX-101108,55+,Digital Marketing,Referral,Low,no,5.6,2,1,35.0,0
+VX-100224,25-34,Digital Marketing,Social Media,Medium,No,22.2,4,1,39.0,0
+VX-100019,35-44,Branding,Email Campaign,Medium,Yes,31.5,7,1,47.0,0
+VX-101096,25-34,SEO,Social Media,High,Yes,4.4,4,5,55.0,1
+VX-100418,25-34,Digital Marketing,Social Media,Medium,No,8.8,4,1,39.0,1
+VX-101099,25-34,Digital Marketing,Website Form,Low,No,31.1,5,0,44.0,1
+VX-100991,45-54,App Development,Social Media,Medium,No,10.7,4,1,35.0,0
+VX-100385,55+,App Development,Website Form,medium,No,6.5,4,1,40.0,1
+VX-100929,35-44,Digital Marketing,Paid Ads,High,Yes,33.3,5,2,67.0,1
+VX-100452,35-44,Digital Marketing,Social Media,Low,no,5.1,6,0,56.0,0
+VX-100264,55+,Branding,Social Media,Low,NO,15.9,4,0,37.0,0
+VX-101064,25-34,Web Development,Email Campaign,Low,Yes,19.7,5,1,47.0,0
+VX-100160,18-24,Branding,Paid Ads,Low,Yes,27.2,7,6,100.0,1
+VX-100110,25-34,Web Development,Paid Ads,Medium,No,,4,3,49.0,1
+VX-100303,35-44,SEO,Paid Ads,Medium,No,31.5,4,2,,0
+VX-100630,55+,Web Development,Referral,medium,No,6.1,3,1,33.0,0
+VX-100048,35-44,SEO,Paid Ads,,No,4.2,5,2,65.0,0
+VX-100509,18-24,Branding,Website Form,Low,No,4.6,5,1,47.0,0
+VX-100018,45-54,Branding,Social Media,High,No,16.8,3,3,41.0,0
+VX-101067,35-44,SEO,Website Form,High,No,-5.3,8,1,73.0,1
+VX-101297,25-34,Web Development,Paid Ads,Low,Yes,43.0,6,3,62.0,0
+VX-100934,45-54,Digital Marketing,Website Form,high,No,12.0,6,1,41.0,0
+VX-101114,55+,Web Development,Social Media,Low,No,9.2,2,1,30.0,0
+VX-100885,25-34,Web Development,Website Form,Medium,No,5.6,5,0,49.0,0
+VX-100275,25-34,Branding,Email Campaign,Medium,No,17.5,2,2,42.0,0
+VX-100114,25-34,Branding,Social Media,Low,Yes,8.3,3,1,44.0,1
+VX-101352,25-34, App Development ,Social Media,Low,Yes,10.1,2,2,35.0,0
+VX-100727,18-24,Digital Marketing,Website Form,Medium,No,2.3,4,1,36.0,0
+VX-101155,18-24,SEO,Referral,High,Yes,17.1,4,2,36.0,1
+VX-100001,25-34,Web Development,Referral,High,Yes,10.5,9,4,100.0,0
+VX-100227,35-44,Web Development,Paid Ads,Low,Yes,,8,0,62.0,0
+VX-100133,25-34,SEO,Email Campaign,Medium,No,4.2,4,1,28.0,0
+VX-100248,25-34,Branding,Email Campaign,Medium,YES,51.6,10,1,88.0,1
+VX-101307,35-44,Web Development,Paid Ads,Medium,No,26.0,6,0,42.0,0
+VX-100496,25-34,SEO,Paid Ads,Medium,Yes,0.8,6,4,57.0,0
+VX-100960,35-44, App Development ,Email Campaign,High,No,3.5,3,1,41.0,1
+VX-100335,35-44,App Development,Paid Ads,Low,no,4.9,3,2,44.0,0
+VX-100439,35-44,App Development,Social Media,Low,No,17.1,2,1,39.0,0
+VX-101287,25-34,SEO,Referral,Low,yes,10.6,8,4,76.0,1
+VX-101166,45-54,Web Development,Referral,Medium,No,1.1,3,4,47.0,1
+VX-101269,35-44,Digital Marketing,Website Form,Low,No,1.4,8,3,83.0,1
+VX-100812,55+,App Development,Referral,Low,No,10.5,3,2,47.0,0
+VX-101051,18-24,App Development,Social Media,Low,No,13.0,2,0,,0
+VX-100441,25-34,SEO,Referral,Low,Yes,23.9,6,4,78.0,1
+VX-101162,45-54,App Development,Paid Ads,Low,no,41.6,4,3,63.0,0
+VX-101387,25-34,Digital Marketing,Website Form,Low,Yes,5.6,6,1,,1
+VX-101113,55+, Web Development ,Social Media,medium,No,10.9,1,3,43.0,0
+VX-100838,25-34,Digital Marketing,Paid Ads,High,No,12.8,7,0,62.0,1
+VX-101047,45-54,Digital Marketing,Paid Ads,,Yes,29.0,4,2,33.0,0
+VX-101103,45-54, App Development ,Referral,Low,Yes,5.1,4,4,71.0,1
+VX-101149,45-54,Digital Marketing,Social Media,Low,No,17.5,2,1,35.0,0
+VX-100242,25-34,Digital Marketing,Paid Ads,High,Yes,5.3,6,6,77.0,1
+VX-101394,45-54,App Development,Social Media,Medium,No,24.8,8,1,73.0,0
+VX-100683,25-34,Web Development,Referral,Low,Yes,2.8,6,5,71.0,1
+VX-101350,45-54,Web Development,Website Form,Low,No,7.4,3,3,37.0,0
+VX-100657,25-34,Digital Marketing,Email Campaign,Medium,Yes,4.1,7,1,69.0,1
+VX-100504,35-44,SEO,Paid Ads,Low,No,15.2,4,1,38.0,0
+VX-100408,18-24, Digital Marketing ,Website Form,Low,No,6.4,4,2,42.0,0
+VX-101192,45-54,SEO,Website Form,High,No,6.0,3,2,,1
+VX-101105,45-54,Web Development,Paid Ads,Medium,No,2.8,2,2,38.0,1
+VX-101255,45-54,Branding,Paid Ads,Medium,Yes,13.1,4,4,59.0,1
+VX-101061,35-44,SEO,Website Form,Medium,No,1.0,4,2,48.0,0
+VX-100140,35-44,App Development,Email Campaign,Low,No,13.7,3,2,31.0,0
+VX-100546,25-34,Web Development,Paid Ads,Medium,No,-11.2,2,3,44.0,0
+VX-100900,25-34,Branding,Email Campaign,Medium,No,5.3,3,3,39.0,1
+VX-100637,35-44,Web Development,Social Media,Low,No,8.3,5,4,63.0,0
+VX-101260,18-24,App Development,Email Campaign,medium,Yes,8.3,5,2,,0
+VX-100688,45-54,SEO,Website Form,Medium,YES,12.5,5,6,82.0,1
+VX-100621,35-44,Web Development,Social Media,Low,Yes,9.6,7,2,58.0,1
+VX-100850,25-34,Digital Marketing,Social Media,Low,Yes,11.7,3,3,47.0,0
+VX-100583,25-34,Web Development,Referral,Medium,No,19.6,4,3,,1
+VX-100332,35-44, App Development ,Website Form,Medium,yes,4.8,6,3,57.0,0
+VX-101293,25-34, Branding ,Website Form,Low,Yes,7.1,10,1,74.0,1
+VX-101361,25-34,Branding,Social Media,Low,Yes,8.2,6,4,67.0,1
+VX-101115,18-24,App Development,Social Media,Medium,No,2.6,3,2,47.0,0
+VX-101104,18-24,Digital Marketing,Social Media,Low,No,28.2,1,3,41.0,0
